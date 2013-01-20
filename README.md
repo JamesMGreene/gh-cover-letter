@@ -11,7 +11,7 @@ GitHub helps people build software together. \[[1][1]\]
 ### I :heart: Open Sourcing ###
  - [PhantomJS][pjs/site] &mdash; _description_
     - [Contributor][pjs/repo]
-    - [Project Admin][pjs/gc-issues]: Working 1-on-1 with @technoweenie to migrate to [GitHub Issues][pjs/gh-issues]
+    - [Project Admin][pjs/gc-issues]: Working 1-on-1 with [**@technoweenie**](https://github.com/technoweenie)  to migrate to [GitHub Issues][pjs/gh-issues]
     - [Documentor][pjs/wiki]
     - [Frequent Answerer][pjs/forum]
  - [ZeroClipboard](http://jonrohan.github.com/ZeroClipboard/) &mdash; _description_
