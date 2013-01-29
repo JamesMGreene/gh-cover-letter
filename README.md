@@ -28,9 +28,9 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
     - [Project Admin][pjs/gc-issues]: Working 1-on-1 with [**@technoweenie**][gh/rick] to migrate to [GitHub Issues][pjs/gh-issues]
     - [Documentor][pjs/api]: Primary author of the API reference
     - [Frequent Answerer][pjs/forum]
- - [ZeroClipboard][zc/site] &mdash; _description_
+ - [ZeroClipboard][zc/site] &mdash; _ZeroClipboard is a JavaScript library that enables clipboard injection using an invisible Adobe Flash movie._
     - [Collaborator][zc/repo]
- - [QUnit][qu/site] &mdash; _description_
+ - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
     - [Contributor][qu/repo]
  - [Other projects, as well as some of my own][me/gh]
 
