@@ -1,22 +1,32 @@
 ## James M. Greene  [:octocat:][me/gh] [:bird:][me/t] [:e-mail:][me/email]
 
+GitHub helps people build software together.
+Over two million people use GitHub to build amazing things together.
+With the collaborative features of GitHub, it has never been easier for individuals and teams to write better code, faster.
+<sup>\[[1][gh/about]\]</sup> 
 
-GitHub helps people build software together. Over two million people use GitHub to build amazing things together. With the collaborative features of GitHub, it has never been easier for individuals and teams to write better code, faster.<sup>\[[1][gh/about]\]</sup> 
+Come help us make collaboration even better.
+At GitHub we build the tools that make collaborating and writing software easier.
+<sup>\[[2][gh/jobs]\]</sup>
 
-Come help us make collaboration even better. At GitHub we build the tools that make collaborating and writing software easier.<sup>\[[2][gh/jobs]\]</sup>
+The most popular code host on the planet.
+More people trust GitHub to host their code than any other host on the planet.
+We spend 24 hours a day tending to your repositories so you can focus on more important things.
+<sup>\[[3][gh/hosting]\]</sup>
 
-The most popular code host on the planet. More people trust GitHub to host their code than any other host on the planet. We spend 24 hours a day tending to your repositories so you can focus on more important things.<sup>\[[3][gh/hosting]\]</sup>
+ 1. Intro + top skills I bring to the table
+ 2. Elaborate on the skills I bring to the employer
+ 3. ...
+ 4. ...
+ 5. Provide additional contact information? Confidently request an interview.
 
-
-
-
-
+---
 
 ### I :heart: Open Sourcing ###
  - [PhantomJS][pjs/site] &mdash; _"Full web stack, no browser required." PhantomJS is a headless WebKit with JavaScript API._
     - [Contributor][pjs/repo]
-    - [Project Admin][pjs/gc-issues]: Working 1-on-1 with [**@technoweenie**](https://github.com/technoweenie)  to migrate to [GitHub Issues][pjs/gh-issues]
-    - [Documentor][pjs/api]
+    - [Project Admin][pjs/gc-issues]: Working 1-on-1 with [**@technoweenie**][gh/rick] to migrate to [GitHub Issues][pjs/gh-issues]
+    - [Documentor][pjs/api]: Primary author of the API reference
     - [Frequent Answerer][pjs/forum]
  - [ZeroClipboard][zc/site] &mdash; _description_
     - [Collaborator][zc/repo]
@@ -31,6 +41,7 @@ The most popular code host on the planet. More people trust GitHub to host their
 [gh/about]: https://github.com/about
 [gh/jobs]: https://github.com/about/jobs
 [gh/hosting]: https://github.com/features/hosting
+[gh/rick]: https://github.com/technoweenie
 [pjs/site]: https://phantomjs.org/
 [pjs/repo]: https://github.com/ariya/phantomjs
 [pjs/gc-issues]: https://code.google.com/p/phantomjs/issues/list
