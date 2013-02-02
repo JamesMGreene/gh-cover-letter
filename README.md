@@ -32,7 +32,7 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
     - [Collaborator][zc/repo]
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
     - [Contributor][qu/repo]
- - [Other projects, as well as some of my own][me/gh]
+ - [Other projects, as well as some of my own....][me/gh]
 
 
 [me/gh]: http://github.com/JamesMGreene
