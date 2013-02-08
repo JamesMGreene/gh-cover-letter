@@ -1,4 +1,4 @@
-## James M. Greene  [:octocat:][me/gh] [:bird:][me/t] [:e-mail:][me/email]
+## James M. Greene  [:octocat:][me/gh] [:bird:][me/t] [:e-mail:][me/email] [:earth_americas:][me/site]  
 
 GitHub helps people build software together.
 Over two million people use GitHub to build amazing things together.
@@ -54,6 +54,7 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
 [me/gh]: http://github.com/JamesMGreene
 [me/t]: http://twitter.com/_JamesMGreene
 [me/email]: mailto:james.m.greene@gmail.com
+[me/site]: http://jamesgreene.net/
 [gh/about]: https://github.com/about
 [gh/jobs]: https://github.com/about/jobs
 [gh/hosting]: https://github.com/features/hosting
