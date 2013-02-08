@@ -31,7 +31,7 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
     - Extension Creator
        - [phantomjs-extensions][pjs/extensions]:  ?
  - [ZeroClipboard][zc/site] &mdash; _ZeroClipboard is a JavaScript library that enables clipboard injection using an invisible Adobe Flash movie._
-    - [Collaborator][zc/repo]
+    - [Collaborator][zc/repo]: Working 1-on-1 with [**@jonrohan**][gh/jon]
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
     - [Contributor][qu/repo]
     - Addon Creator
@@ -59,6 +59,7 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
 [gh/jobs]: https://github.com/about/jobs
 [gh/hosting]: https://github.com/features/hosting
 [gh/rick]: https://github.com/technoweenie
+[gh/jon]: https://github.com/jonrohan
 [pjs/site]: https://phantomjs.org/
 [pjs/repo]: https://github.com/ariya/phantomjs
 [pjs/gc-issues]: https://code.google.com/p/phantomjs/issues/list
