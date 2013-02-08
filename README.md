@@ -47,7 +47,7 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
     - Module Creator
        - [gcph-client][node/gcph-client/repo]: [NPM Registry][node/gcph-client/reg]
        - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]: [NPM Registry][node/gc2gh-issue-migrator/reg]
- - [jWalker][other/jWalker/repo] &mdash; 
+ - [jWalker][other/jWalker/repo] &mdash; _jWalker is...?_
  - [_And more...._][me/gh]
 
 
