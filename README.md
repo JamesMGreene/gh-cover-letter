@@ -40,12 +40,13 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
  - [jQuery][jq/site] &mdash; _jQuery is...?_
     - Plugin Creator
        - [jquery.outerHtml][jq/outerHtml/repo]: [jQuery Plugin Registry][jq/outerHtml/reg]
+       - [jquery.hub][jq/hub/repo]: [jQuery Plugin Registry][jq/hub/reg]
        - [jquery.textSelect][jq/textSelect/repo]: [jQuery Plugin Registry][jq/textSelect/reg]
        - [jquery.multiclick][jq/multiclick/repo]: [jQuery Plugin Registry][jq/multiclick/reg]
-       - [jquery.hub][jq/hub/repo]: [jQuery Plugin Registry][jq/hub/reg]
  - [Node.js][node/site] &mdash; _Node.js is...?_
     - Module Creator
        - [gcph-client][node/gcph-client/repo]: [NPM Registry][node/gcph-client/reg]
+       - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]: [NPM Registry][node/gc2gh-issue-migrator/reg]
  - [jWalker][other/jWalker/repo] &mdash; 
  - [_And more...._][me/gh]
 
@@ -73,14 +74,16 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
 [jq/site]: http://jquery.com/
 [jq/outerHtml/repo]: https://github.com/JamesMGreene/jquery.outerHtml
 [jq/outerHtml/reg]: http://plugins.jquery.com/outerHtml/
+[jq/hub/repo]: https://github.com/JamesMGreene/jquery.hub
+[jq/hub/reg]: http://plugins.jquery.com/hub/
 [jq/textSelect/repo]: https://github.com/JamesMGreene/jquery.textSelect
 [jq/textSelect/reg]: http://plugins.jquery.com/textSelect/
 [jq/multiclick/repo]: https://github.com/JamesMGreene/jquery.multiclick
 [jq/multiclick/reg]: http://plugins.jquery.com/multiclick/
-[jq/hub/repo]: https://github.com/JamesMGreene/jquery.hub
-[jq/hub/reg]: http://plugins.jquery.com/hub/
 [node/site]: http://nodejs.org/
 [node/gcph-client/repo]: https://github.com/JamesMGreene/node-gcph-client
 [node/gcph-client/reg]: https://npmjs.org/package/gcph-client
+[node/gc2gh-issue-migrator/repo]: https://github.com/JamesMGreene/gc2gh-issue-migrator
+[node/gc2gh-issue-migrator/reg]: https://npmjs.org/package/gc2gh-issue-migrator
 [other/jWalker/repo]: https://github.com/JamesMGreene/jWalker
 [other/jWalker/site]: http://jamesmgreene.github.com/jWalker
