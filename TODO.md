@@ -2,7 +2,9 @@
 
 ## Repos
  - Allow users to choose which branch is auto-hosted, i.e. don't restrict it to just "gh-pages".
- - ?
+ - Improve branch visualization, e.g. consider [**@ariya**][ariya/gh]'s
+   [comments](http://ariya.ofilabs.com/2012/09/git-viewer-github-vs-google-code.html)
+ - 
 
 
 ## Pull Requests
@@ -18,6 +20,11 @@
    new issues by [asking which version of Flash the users have installed](https://github.com/jonrohan/ZeroClipboard/issues/85#issuecomment-12543512).
    The "CONTRIBUTING.md" file that we have today is nice but, IMHO, better suited for code/PR contributors rather than
    issue submitters.
+ - Add some custom views for the issues list, e.g. Google Code's grid view [serves as a quick Kanban board substitute][ariya/blog-post]
+ - Add issue relationships other than the plain ole "reference", such as a blocking relationship (i.e. "Issue #2 is blocked on Issue #1).
+   While I actually generally _disagree_ with [**@ariya**][ariya/gh]'s [example of using such a relationship as an
+   umbrella issue][ariya/blog-post] &mdash; that's a great place to utilize milestones, IMHO &mdash; I do agree with him
+   that supporting issue relationships does provide value, _especially_ the blocking relationship.
 
 
 ## Milestones
@@ -56,3 +63,5 @@
    of the essence if we want to capitalize and migrate more projects from there.
 
 
+[ariya/gh]: https://github.com/ariya
+[ariya/blog-post]: http://ariya.ofilabs.com/2012/11/issue-tracker-github-vs-google-code.html
