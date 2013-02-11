@@ -1,5 +1,7 @@
 # James M. Greene  [:octocat:][me/gh] [:bird:][me/t] [:e-mail:][me/email] [:earth_americas:][me/site]  
 
+---
+
 GitHub helps people build software together.
 Over two million people use GitHub to build amazing things together.
 With the collaborative features of GitHub, it has never been easier for individuals and teams to write better code, faster.
