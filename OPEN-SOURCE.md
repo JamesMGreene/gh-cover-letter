@@ -1,4 +1,4 @@
-# James M. Greene  [![GitHub][gh/emoji/octocat]][me/gh] [![Twitter][gh/emoji/bird]][me/t] [![Email][gh/emoji/e-mail]][me/email] [![Website][gh/emoji/earth_americas]][me/site]  
+# James M. Greene [<img class="emoji" title="GitHub" alt="GitHub" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" />][me/gh] [<img class="emoji" title="Twitter" alt="Twitter" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/bird.png" height="20" width="20" align="absmiddle" />][me/t] [<img class="emoji" title="Email" alt="Email" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/e-mail.png" height="20" width="20" align="absmiddle" />][me/email] [<img class="emoji" title="Website" alt="Website" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/earth_americas.png" height="20" width="20" align="absmiddle" />][me/site]  
 
 ---
 
@@ -31,13 +31,9 @@
  - [_And more...._][me/gh]
 
 
-[gh/emoji/octocat]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/octocat.png?v5 "GitHub"
 [me/gh]: http://github.com/JamesMGreene "GitHub"
-[gh/emoji/bird]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/bird.png?v5 "Twitter"
 [me/t]: http://twitter.com/_JamesMGreene "Twitter"
-[gh/emoji/e-mail]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/e-mail.png?v5 "Email"
 [me/email]: mailto:james.m.greene@gmail.com "Email"
-[gh/emoji/earth_americas]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/earth_americas.png?v5 "Website"
 [me/site]: http://jamesgreene.net/ "Website"
 [gh/rick]: https://github.com/technoweenie
 [gh/jon]: https://github.com/jonrohan
