@@ -37,7 +37,7 @@
 ## Increasing Popularity
  - We can help more projects migrate to GitHub by providing more streamlined import processes.
    For example, I migrated the Issue Tracker for the [PhantomJS](https://github.com/ariya/phantomjs) project
-   from [Google Code](http://code.google.com/p/phantomjs/issues/list) to [GitHub]()
+   from [Google Code](http://code.google.com/p/phantomjs/issues/list) to [GitHub](https://github.com/JamesMGreene/phantomjs-issues)
    by using [**@technoweenie**](https://github.com/technoweenie)'s
    [GitHub-internal import process](https://gist.github.com/7f75ced1fa7576412901/006a7c69f57521e026be85937c9641e861e81802)
    coupled with some Node.js modules of my own \([gc2gh-issue-migrator](https://github.com/JamesMGreene/gc2gh-issue-migrator)
