@@ -1,4 +1,4 @@
-# James M. Greene  [:octocat:][me/gh] [:bird:][me/t] [:e-mail:][me/email] [:earth_americas:][me/site]  
+# James M. Greene [<img class="emoji" title="GitHub" alt="GitHub" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle" />][me/gh] [<img class="emoji" title="Twitter" alt="Twitter" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/bird.png" height="20" width="20" align="absmiddle" />][me/t] [<img class="emoji" title="Email" alt="Email" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/e-mail.png" height="20" width="20" align="absmiddle" />][me/email] [<img class="emoji" title="Website" alt="Website" src="https://a248.e.akamai.net/assets.github.com/images/icons/emoji/earth_americas.png" height="20" width="20" align="absmiddle" />][me/site]  
 
 ---
 
