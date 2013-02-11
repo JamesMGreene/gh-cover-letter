@@ -29,7 +29,7 @@
    and was removed. If that is indeed the case, then I'd love to learn more about why the feature was removed.
  - Add a special file (e.g. "NEW-ISSUE.md") that would suggest questions that are pertinent and should be addressed
    when filing a new issue, or provide the default text for the actual textbox when filing a new issue (like Google
-   Code does). For example, for [ZeroClipboard](https://github.com/jonrohan/ZeroClipboard), I frequently reply to
+   Code does, [e.g.](http://code.google.com/p/phantomjs/issues/entry)). For example, for [ZeroClipboard](https://github.com/jonrohan/ZeroClipboard), I frequently reply to
    new issues by [asking which version of Flash the users have installed](https://github.com/jonrohan/ZeroClipboard/issues/85#issuecomment-12543512).
    The "CONTRIBUTING.md" file that we have today is nice but, IMHO, better suited for code/PR contributors rather than
    issue submitters.
@@ -54,13 +54,6 @@
  - Allow users to name their Gists. The names don't necessarily need to be restricted to unique names as Gists
    already have unique numerical IDs; rather, the names would just to empower users to not be at the whim of
    the alphabetical order of the filename(s) in their Gist.
- - Gists are very easy add to HTML pages using the GitHub-provided script tags, e.g.:
-      `<script src="https://gist.github.com/JamesMGreene/4371789.js"></script>`  
-   However, I think we could make it even easier to embed Gists wherever GFM is supported with some custom syntax, e.g.:
-      `[gist:JamesMGreene/4371789]`  
-   To make the feature easier to use, we could also provide auto-complete help as they type (much like users get
-   today when referencing issues by an ID number) &mdash; which would be even easier if users were allowed to name
-   their Gists (see previous bullet).
  - _Bug fix:_ currently, [GitHub emojis](http://www.emoji-cheat-sheet.com/) don't work on Gists.
  - ?
 
@@ -68,6 +61,13 @@
 ## GitHub-Flavored Markdown (GFM)
  - Expand the applicable contexts for [Task List markdown](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
    beyond Issues/PRs/Comments so that it can be used in the repo's Markdown docs and/or wiki, e.g. for project roadmaps.
+ - Gists are very easy add to HTML pages using the GitHub-provided script tags, e.g.:
+      `<script src="https://gist.github.com/JamesMGreene/4371789.js"></script>`  
+   However, I think we could make it even easier to embed Gists wherever GFM is supported with some custom syntax, e.g.:
+      `[gist:JamesMGreene/4371789]`  
+   To make the feature easier to use, we could also provide auto-complete help as they type (much like users get
+   today when referencing issues by an ID number) &mdash; which would be even easier if users were allowed to name
+   their Gists (see previous bullet).
  - ?
 
 ## Increasing Popularity
