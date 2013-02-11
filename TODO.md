@@ -10,6 +10,8 @@
 
 
 ## Issues
+ - Add some sort of voting system (e.g. stars). However, it is my understanding that this feature used to be available
+   and was removed. If that is indeed the case, then I'd love to learn more about why the feature was removed.
  - ?
 
 
