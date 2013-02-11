@@ -34,6 +34,7 @@
    To make the feature easier to use, we could also provide auto-complete help as they type (much like users get
    today when referencing issues by an ID number) &mdash; which would be even easier if users were allowed to name
    their Gists (see previous bullet).
+ - _Bug fix:_ currently, GitHub emojis don't work on Gists.
 
 
 ## Increasing Popularity
