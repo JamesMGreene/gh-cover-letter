@@ -1,4 +1,4 @@
-# James M. Greene  [:octocat:][me/gh] [:bird:][me/t] [:e-mail:][me/email] [:earth_americas:][me/site]  
+# James M. Greene  [![GitHub][gh/emoji/octocat]][me/gh] [![Twitter][gh/emoji/bird]][me/t] [![Email][gh/emoji/e-mail]][me/email] [![Website][gh/emoji/earth_americas]][me/site]  
 
 ---
 
@@ -31,10 +31,14 @@
  - [_And more...._][me/gh]
 
 
-[me/gh]: http://github.com/JamesMGreene
-[me/t]: http://twitter.com/_JamesMGreene
-[me/email]: mailto:james.m.greene@gmail.com
-[me/site]: http://jamesgreene.net/
+[gh/emoji/octocat]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/octocat.png?v5 "GitHub"
+[me/gh]: http://github.com/JamesMGreene "GitHub"
+[gh/emoji/bird]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/bird.png?v5 "Twitter"
+[me/t]: http://twitter.com/_JamesMGreene "Twitter"
+[gh/emoji/e-mail]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/e-mail.png?v5 "Email"
+[me/email]: mailto:james.m.greene@gmail.com "Email"
+[gh/emoji/earth_americas]: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/earth_americas.png?v5 "Website"
+[me/site]: http://jamesgreene.net/ "Website"
 [gh/rick]: https://github.com/technoweenie
 [gh/jon]: https://github.com/jonrohan
 [pjs/site]: https://phantomjs.org/
