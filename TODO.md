@@ -2,13 +2,20 @@
 
 ## Repos
  - Allow users to choose which branch is auto-hosted, i.e. don't restrict it to just "gh-pages".
- - Improve branch visualization, e.g. consider [**@ariya**][ariya/gh]'s
-   [comments](http://ariya.ofilabs.com/2012/09/git-viewer-github-vs-google-code.html)
- - 
+ - Add a license data field for the repo itself. I _wish_ this could be a required field but I'm sure
+   that attempting to retroactively add it to existing repos could prove troublesome.
+ - ?
 
 
 ## Pull Requests
- - ?
+ - Make pull request history searchable, one of [**@ariya**][ariya/gh]'s [biggest laments](http://ariya.ofilabs.com/2012/08/github-and-lack-of-searchability.html).
+   I'm not positive if this _isn't_ the expected behavior today but it may be a result of the fact that [PhantomJS](https://github.com/ariya/phantomjs)
+   does not have its Issues feature enabled [yet].
+ - Consider providing a way to integrate a [CLA](http://en.wikipedia.org/wiki/Contributor_License_Agreement) check
+   into the PR submission process. While many projects will not need this functionality, there are definitely some
+   biggers projects/organizations (e.g. jQuery, Dojo, etc.) that I'm sure would appreciate this feature.
+ - I love GitHub's auto-merge functionality for PRs that don't have any merge conflicts. However, I very much dislike
+   the commit that it generates. *********************************
 
 
 ## Issues
@@ -21,10 +28,11 @@
    The "CONTRIBUTING.md" file that we have today is nice but, IMHO, better suited for code/PR contributors rather than
    issue submitters.
  - Add some custom views for the issues list, e.g. Google Code's grid view [serves as a quick Kanban board substitute][ariya/blog-post]
- - Add issue relationships other than the plain ole "reference", such as a blocking relationship (i.e. "Issue #2 is
+ - Add issue relationships other than the plain ole "reference", such as a _blocking/blocked relationship_ (i.e. "Issue #2 is
    blocked on Issue #1"). While I actually generally _disagree_ with [**@ariya**][ariya/gh]'s [example of using such
    a relationship as an umbrella issue][ariya/blog-post] &mdash; that's a great place to utilize milestones, IMHO
-   &mdash; I do agree with him that supporting issue relationships does provide value, _especially_ the blocking relationship.
+   &mdash; I do agree with him that supporting issue relationships does provide value, _especially_ the blocking/blocked relationship.
+ - ?
 
 
 ## Milestones
@@ -32,6 +40,7 @@
 
 
 ## Activity Log/Charts
+ - Improve branch visualizations, e.g. consider [**@ariya**][ariya/gh]'s [comments](http://ariya.ofilabs.com/2012/09/git-viewer-github-vs-google-code.html).
  - ?
 
 
@@ -47,7 +56,13 @@
    today when referencing issues by an ID number) &mdash; which would be even easier if users were allowed to name
    their Gists (see previous bullet).
  - _Bug fix:_ currently, [GitHub emojis](http://www.emoji-cheat-sheet.com/) don't work on Gists.
+ - ?
 
+
+## GitHub-Flavored Markdown (GFM)
+ - Expand the applicable contexts for [Task List markdown](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
+   beyond Issues/PRs/Comments so that it can be used in the repo's Markdown docs and/or wiki, e.g. for project roadmaps.
+ - ?
 
 ## Increasing Popularity
  - We can help more projects migrate to GitHub by providing more streamlined import processes.
@@ -61,6 +76,8 @@
    With regard to migrating from Google Code in particular, their [public Issue Tracker API](http://code.google.com/p/support/wiki/IssueTrackerAPI)
    will be [shutdown on June 14, 2013](http://googleblog.blogspot.com/2012/12/winter-cleaning.html), so time is
    of the essence if we want to capitalize and migrate more projects from there.
+
+ - ?
 
 
 [ariya/gh]: https://github.com/ariya
