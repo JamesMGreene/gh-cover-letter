@@ -1,6 +1,8 @@
 # James M. Greene  [:octocat:][me/gh] [:bird:][me/t] [:e-mail:][me/email] [:earth_americas:][me/site]  
 
-## I :heart: Open Sourcing
+---
+
+### I :heart: Open Sourcing
  - [PhantomJS][pjs/site] &mdash; _"Full web stack, no browser required." PhantomJS is a headless WebKit with JavaScript API._
     - [Contributor][pjs/repo]
     - [Project Admin][pjs/gc-issues]: Working 1-on-1 with [**@technoweenie**][gh/rick] to migrate to [GitHub Issues][pjs/gh-issues]
