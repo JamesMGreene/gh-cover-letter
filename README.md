@@ -24,7 +24,7 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
 
 ---
 
-### More about me!
+### _More about me!_
  - **I :heart: Open Sourcing**: [OPEN-SOURCE.md][cover-letter/open-source]
  - **Ideas for GitHub :octocat:**: [GITHUB-TODO.md][cover-letter/github-todo]
 
