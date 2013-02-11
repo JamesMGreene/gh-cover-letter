@@ -15,7 +15,13 @@
    into the PR submission process. While many projects will not need this functionality, there are definitely some
    biggers projects/organizations (e.g. jQuery, Dojo, etc.) that I'm sure would appreciate this feature.
  - I love GitHub's auto-merge functionality for PRs that don't have any merge conflicts. However, I very much dislike
-   the commit that it generates. *********************************
+   the commit that it generates as, although it does honor the PR contributor's commit in the history, it adds a
+   second commit for the merge:
+       [image 1 goes here]
+   Rather, I would _love_ to see a more compact commit history like those of a cherry picked commit:
+       [image 2 goes here]
+
+ - ?
 
 
 ## Issues
