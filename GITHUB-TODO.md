@@ -42,6 +42,11 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
      &nbsp; &nbsp; &nbsp; ![GitHub PR auto-merge](img/auto-merge-commit.png)  
    Rather, I would _love_ to see auto-merges result in a more compact commit history like those of a cherry-picked commit:  
      &nbsp; &nbsp; &nbsp; ![GitHub PR cherry-pick](img/cherry-pick-commit.png)  
+ - _Bug fix:_ currently, if I do an [inline file edit][gh/blog/inline-file-editing] on some file (in a repo for which
+   I don't collaborator permissions) from a branch _other_ than the repo's default branch (typically "master" but not
+   always), it will incorrectly try to merge it with the default branch when I commit the auto-PR ("Propose File Change"):  
+     &nbsp; &nbsp; &nbsp; ![GitHub auto-PR branch bug](img/auto-fork-PR-wrong-branch.png)  
+
 
 
 ### Issues
@@ -58,10 +63,12 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
    blocked on Issue #1"). While I actually generally _disagree_ with [**@ariya**][gh/ariya]'s [example of using such
    a relationship as an umbrella issue][ariya/blog/tracker] &mdash; that's a great place to utilize milestones, IMHO
    &mdash; I do agree with him that supporting issue relationships does provide value, _especially_ the blocking/blocked relationship.
+ - Add a GFM editor (with Preview tab) when editing an Issue's description.
+ - Add a GFM editor (with Preview tab) when editing a comment on an Issue.
 
 
 ### Milestones
- - Add a GFM editor for the Milestone "Description" textbox.
+ - Add a GFM editor (with preview tab) for the Milestone "Description" textbox.
 
 
 ### Activity Log/Charts
@@ -85,7 +92,19 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
    their Gists (see first bullet under [**Gists**](#gists)).
  - Expand the applicable contexts for [Task List markdown][gh/blog/task-list] beyond Issues/PRs/Comments/Milestones so that
    it can be used in the repo's Markdown docs and/or wiki, e.g. for project roadmaps.
- - Allow for specifying optional title text with the [GitHub/Campfire emojis][gh/emoji-cheat-sheet], e.g. `:octocat="GitHub":`, `!:octocat:("GitHub")`, etc.
+ - Allow for specifying optional title text with the [GitHub/Campfire emojis][gh/emoji-cheat-sheet],
+   e.g. `:octocat="GitHub":`, `!:octocat:("GitHub")`, etc.
+ - Possibly add some sort of syntax validator for GFM when editing on GitHub.com (and perhaps through the GitHub native
+   GUI clients as well). For example, back in October 2012, we had a GFM syntax error (an extra trailing backtick (\`)
+   at the end of a code block as seen below) on the wiki for the PhantomJS:  
+    ```md
+`​`​`​js
+function blah() { }
+`​`​`​`
+```
+ 
+   This caused the whole wiki page to not have any syntax highlighting at all and it took about a week of working with
+   GitHub staffer on and off to track down and resolve the actual issue.
 
 
 ### Increasing Popularity
