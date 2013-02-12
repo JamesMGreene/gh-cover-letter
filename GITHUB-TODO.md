@@ -105,6 +105,9 @@ function blah() { }
  
    This caused the whole wiki page to not have any syntax highlighting at all and it took about a week of working with
    GitHub staffer on and off to track down and resolve the actual issue.
+ - Create an escape mechanism for 3+ backticks when used inside of a triple-backtick-fenched code block. I [had to use
+   zero width space characters][] (`&#x200B;`) to do so [for the previous bullet!].
+
 
 
 ### Increasing Popularity
@@ -140,6 +143,7 @@ function blah() { }
 [pjs/issues/gh-dry-run]: https://github.com/JamesMGreene/phantomjs-issues
 [jmg/repo/gc2gh]: https://github.com/JamesMGreene/gc2gh-issue-migrator
 [jmg/repo/gcph-client]: https://github.com/JamesMGreene/node-gcph-client
+[jmg/gfm-escape-backtick-commit]: https://github.com/JamesMGreene/gh-cover-letter/commit/852bbdf78d3542c4e788970785139b5cd000391e#L0R101
 [gc/issue-tracker/api]: http://code.google.com/p/support/wiki/IssueTrackerAPI
 [gc/issue-tracker/closure]: http://googleblog.blogspot.com/2012/12/winter-cleaning.html
 [zc/repo]: https://github.com/jonrohan/ZeroClipboard
