@@ -10,6 +10,22 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
  - Allow users to choose which branch is auto-hosted, i.e. don't restrict it to just "gh-pages".
  - Add a license data field for the repo itself. I _wish_ this could be a required field but I'm sure
    that attempting to retroactively add it to existing repos could prove troublesome.
+ - Finer grain repo permissions (at least for organizations, if not also users):
+    - [GitHub.com Inline File Editing][gh/blog/inline-file-editing] is awesome (for appropriate scenarios)! That said,
+      I would love to see repo owners given the option to set how this works for repo collaborators: either allow them to
+      edit and commit/push directly (the current behavior) or else force it to do an auto-fork as if they did _not_ have
+      push access to the repo &mdash; essentially to offer a way to "suggest" that, even though they are a repo collaborator,
+      their changes should still be reviewed, at least by another repo collaborator if not the repo owner.  
+      For example, very shortly after [**@jonrohan**][gh/jon] added me as a repo collaborator for [ZeroClipboard][zc/repo],
+      I edited a file on the GitHub.com website. However, I was surprised to find out [when I committed the changes] that I
+      had actually done a real "Commit Changes" to the master branch's file rather than doing a "Propose File Change" as in
+      the auto-fork scenario (and yes, I have since noticed the difference in the button text; that is indeed helpful).
+      My intent was to auto-fork so that Jon and I could discuss the PR but only after committing [an incomplete
+      change] did I realize my mistake.
+    - For bigger projects (which are hopefully setup as organizations), it would be nice to be able to give some "collaborators"
+      permissions over certain aspects of the project (e.g. "issue administrators" vs. "wiki administrators" vs. "code
+      collaborators", etc.), as well as possibly of branches (e.g. can work on the documentation branch vs. the master code
+      branch), etc. Of course, striking the right balance of simplicity vs. capability is the obvious quandry here.
 
 
 ### Pull Requests
@@ -55,7 +71,7 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
  - Allow users to name their Gists. The names don't necessarily need to be restricted to unique names as Gists
    already have unique numerical IDs; rather, the names would just to empower users to not be at the whim of
    the alphabetical order of the filename(s) in their Gist.
- - _Bug fix:_ currently, [GitHub emojis][gh/emoji-cheat-sheet] don't work on Gists.
+ - _Bug fix:_ currently, [GitHub/Campfire emojis][gh/emoji-cheat-sheet] don't work on Gists.
 
 
 ### GitHub-Flavored Markdown (GFM)
@@ -68,6 +84,7 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
    their Gists (see first bullet under [**Gists**](#gists)).
  - Expand the applicable contexts for [Task List markdown][gh/blog/task-list] beyond Issues/PRs/Comments/Milestones so that
    it can be used in the repo's Markdown docs and/or wiki, e.g. for project roadmaps.
+ - Allow for specifying optional title text with the [GitHub/Campfire emojis][gh/emoji-cheat-sheet], e.g. `:octocat="GitHub":`, `!:octocat:("GitHub")`, etc.
 
 
 ### Increasing Popularity
@@ -89,8 +106,10 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
 [me/site]: http://jamesgreene.net/
 [gh/ariya]: https://github.com/ariya
 [gh/rick]: https://github.com/technoweenie
+[gh/jon]: https://github.com/jonrohan
 [gh/import-gist]: https://gist.github.com/7f75ced1fa7576412901/006a7c69f57521e026be85937c9641e861e81802
 [gh/blog/task-list]: https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
+[gh/blog/inline-file-editing]: https://github.com/blog/143-inline-file-editing
 [gh/emoji-cheat-sheet]: http://www.emoji-cheat-sheet.com/
 [ariya/blog/searchability]: http://ariya.ofilabs.com/2012/08/github-and-lack-of-searchability.html
 [ariya/blog/tracker]: http://ariya.ofilabs.com/2012/11/issue-tracker-github-vs-google-code.html
