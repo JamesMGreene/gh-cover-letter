@@ -106,7 +106,7 @@ function blah() { }
    This caused the whole wiki page to not have any syntax highlighting at all and it took about a week of working with
    GitHub staffer on and off to track down and resolve the actual issue.
  - Create an escape mechanism for 3+ backticks when used inside of a triple-backtick-fenched code block. I [had to use
-   zero width space characters][] (`&#x200B;`) to do so [for the previous bullet!].
+   zero width space characters][jmg/gfm-escape-backtick-commit] (`&#x200B;`) to do so [for the previous bullet!].
 
 
 
