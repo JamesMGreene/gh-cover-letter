@@ -22,10 +22,11 @@ This is [the start of] the list of ideas for tasks I'd love to help accomplish a
       the auto-fork scenario (and yes, I have since noticed the difference in the button text; that is indeed helpful).
       My intent was to auto-fork so that Jon and I could discuss the PR but only after committing [an incomplete
       change] did I realize my mistake.
-    - For bigger projects (which are hopefully setup as organizations), it would be nice to be able to give some "collaborators"
-      permissions over certain aspects of the project (e.g. "issue administrators" vs. "wiki administrators" vs. "code
-      collaborators", etc.), as well as possibly of branches (e.g. can work on the documentation branch vs. the master code
-      branch), etc. Of course, striking the right balance of simplicity vs. capability is the obvious quandry here.
+    - For bigger projects (which are hopefully setup as organizations), it would be nice to be able to give "collaborators"
+      permissions over particular aspects of the project (e.g. "issue administrators" vs. "wiki administrators" vs. "code
+      collaborators", etc.), as well as possibly of branches (e.g. can work on the "docs" branch vs. "gh-pages" branch vs.
+      "master" branch), etc. Of course, striking the right balance of simplicity vs. capability is the obvious quandry
+      to tackle here.
 
 
 ### Pull Requests
