@@ -22,12 +22,13 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
  4. ...
  5. Provide additional contact information? Confidently request an interview.
 
+
 ---
 
 ### _More about me!_
- - **I :heart: Open Sourcing**: [OPEN-SOURCE.md][cover-letter/open-source]
  - **Ideas for GitHub :octocat:**: [GITHUB-TODO.md][cover-letter/github-todo]
-
+ - **I :yellow_heart: Open Sourcing**: [OPEN-SOURCE.md][cover-letter/open-source]
+ - **I :heart: Learning: [LEARNING.md][cover-letter/learning]
 
 [me/gh]: http://github.com/JamesMGreene
 [me/t]: http://twitter.com/_JamesMGreene
@@ -36,5 +37,6 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
 [gh/about]: https://github.com/about
 [gh/jobs]: https://github.com/about/jobs
 [gh/hosting]: https://github.com/features/hosting
-[cover-letter/open-source]: OPEN-SOURCE.md
 [cover-letter/github-todo]: GITHUB-TODO.md
+[cover-letter/open-source]: OPEN-SOURCE.md
+[cover-letter/learning]: LEARNING.md
