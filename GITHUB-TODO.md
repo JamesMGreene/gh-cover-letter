@@ -5,7 +5,7 @@
 ## GitHub To-Do List
 This is [the start of] the list of ideas for tasks I'd love to help GitHub accomplish! :octocat:  
 
-If they are new ideas, then I am proud to be bringing them to the table.  If not, then I am proud to already be
+If they are new ideas, then I am proud to bring them to the table.  If not, then I am proud to already be
 mentally aligned with GitHub's future direction!
 
 
