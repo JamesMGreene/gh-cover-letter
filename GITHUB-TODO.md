@@ -96,7 +96,8 @@ mentally aligned with GitHub's future direction!
  - Expand the applicable contexts for [Task List markdown][gh/blog/task-list] beyond Issues/PRs/Comments/Milestones so that
    it can be used in the repo's Markdown docs and/or wiki, e.g. for project roadmaps.
  - Allow for specifying optional title text with the [GitHub/Campfire emojis][gh/emoji-cheat-sheet],
-   e.g. `:octocat="GitHub":`, `!:octocat:("GitHub")`, etc.
+   e.g. `:octocat="GitHub":`, `!:octocat:("GitHub")`, etc. Without that capability, I had to resort to manually
+   specifying the HTML for the GitHub emojis I used in the "header" of the documents in this repo.
  - Possibly add some sort of syntax validator for GFM when editing on GitHub.com (and perhaps through the GitHub native
    GUI clients as well). For example, back in October 2012, we had a GFM syntax error (an extra trailing backtick (\`)
    at the end of a code block as seen below) on the wiki for the PhantomJS:  
