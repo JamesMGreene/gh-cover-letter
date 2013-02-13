@@ -28,7 +28,7 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
 ### _More about me!_
  - **Ideas for GitHub :octocat:**: [GITHUB-TODO.md][cover-letter/github-todo]
  - **I :yellow_heart: Open Sourcing**: [OPEN-SOURCE.md][cover-letter/open-source]
- - **I :heart: Learning: [LEARNING.md][cover-letter/learning]
+ - **I :heart: Learning**: [LEARNING.md][cover-letter/learning]
 
 [me/gh]: http://github.com/JamesMGreene
 [me/t]: http://twitter.com/_JamesMGreene
