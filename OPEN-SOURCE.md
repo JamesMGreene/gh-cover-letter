@@ -17,13 +17,13 @@
     - Addon Creator
        - [qunit-assert-html][qu/addon-assert-html]: ?
        - [qunit-reporter-xunit][qu/addon-reporter-xunit]: ?
- - [jQuery][jq/site] &mdash; _jQuery is...?_
+ - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ Perhaps you've heard of it? :wink:
     - Plugin Creator
-       - [jquery.outerHtml][jq/outerHtml/repo]: [jQuery Plugin Registry][jq/outerHtml/reg]
-       - [jquery.hub][jq/hub/repo]: [jQuery Plugin Registry][jq/hub/reg]
-       - [jquery.textSelect][jq/textSelect/repo]: [jQuery Plugin Registry][jq/textSelect/reg]
-       - [jquery.multiclick][jq/multiclick/repo]: [jQuery Plugin Registry][jq/multiclick/reg]
- - [Node.js][node/site] &mdash; _Node.js is...?_
+       - [jquery.outerHtml][jq/outerHtml/repo]: [jQuery Plugin Registry][jq/outerHtml/reg] ?
+       - [jquery.hub][jq/hub/repo]: [jQuery Plugin Registry][jq/hub/reg] ?
+       - [jquery.textSelect][jq/textSelect/repo]: [jQuery Plugin Registry][jq/textSelect/reg] ?
+       - [jquery.multiclick][jq/multiclick/repo]: [jQuery Plugin Registry][jq/multiclick/reg] ?
+ - [Node.js][node/site] &mdash; _Node.js is server-side JavaScript execution environment with an event-driven, non-blocking I/O model._
     - Module Creator
        - [gcph-client][node/gcph-client/repo]: [NPM Registry][node/gcph-client/reg]
        - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]: [NPM Registry][node/gc2gh-issue-migrator/reg]
