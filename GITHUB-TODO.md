@@ -55,7 +55,7 @@ mentally aligned with GitHub's future direction!
 ### Issues
  - Add some sort of voting system (e.g. stars). However, it is my understanding that this feature used to be available
    and was removed. If that is indeed the case, then I'd love to learn more about why the feature was removed.
- - Add a special file (e.g. "NEW-ISSUE.md") that would suggest questions that are pertinent and should be addressed
+ - Add a special file (e.g. "FILING-ISSUES.md") that would suggest questions that are pertinent and should be addressed
    when filing a new issue, or provide the default text for the actual textbox when filing a new issue (like Google
    Code does, [e.g.][pjs/issues/gc/new]). For example, for [ZeroClipboard][zc/repo], I frequently reply to
    new issues by [asking which version of Flash the users have installed][zc/issue-template-example].
