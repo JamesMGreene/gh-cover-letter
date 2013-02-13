@@ -4,3 +4,10 @@
 
 ### I :heart: Learning
  - ?
+
+
+
+[me/gh]: http://github.com/JamesMGreene
+[me/t]: http://twitter.com/_JamesMGreene
+[me/email]: mailto:james.m.greene@gmail.com
+[me/site]: http://jamesgreene.net/
