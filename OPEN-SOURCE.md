@@ -9,14 +9,14 @@
     - [Documentor][pjs/api]: Primary author of the API reference
     - [Frequent Answerer][pjs/forum]
     - Extension Creator
-       - [phantomjs-extensions][pjs/extensions]:  ?
+       - [phantomjs-extensions][pjs/extensions]: A set of extensions, shims, utilities, and alternate APIs for PhantomJS.
  - [ZeroClipboard][zc/site] &mdash; _ZeroClipboard is a JavaScript library that enables clipboard injection using an invisible Adobe Flash movie._
     - [Collaborator][zc/repo]: Working 1-on-1 with [**@jonrohan**][gh/jon]
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
     - [Contributor][qu/repo]
     - Addon Creator
-       - [qunit-assert-html][qu/addon-assert-html]: ?
-       - [qunit-reporter-xunit][qu/addon-reporter-xunit]: ?
+       - [qunit-assert-html][qu/addon-assert-html]: A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
+       - [qunit-reporter-xunit][qu/addon-reporter-xunit]: A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.
  - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ Perhaps you've heard of it? :wink:
     - Plugin Creator
        - [jquery.outerHtml][jq/outerHtml/repo]: [jQuery Plugin Registry][jq/outerHtml/reg] ?
@@ -25,9 +25,9 @@
        - [jquery.multiclick][jq/multiclick/repo]: [jQuery Plugin Registry][jq/multiclick/reg] ?
  - [Node.js][node/site] &mdash; _Node.js is server-side JavaScript execution environment with an event-driven, non-blocking I/O model._
     - Module Creator
-       - [gcph-client][node/gcph-client/repo]: [NPM Registry][node/gcph-client/reg]
-       - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]: [NPM Registry][node/gc2gh-issue-migrator/reg]
- - [jWalker][other/jWalker/repo] &mdash; _jWalker is...?_
+       - [gcph-client][node/gcph-client/repo]: [NPM Registry][node/gcph-client/reg] ?
+       - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]: [NPM Registry][node/gc2gh-issue-migrator/reg] ?
+ - [jWalker][other/jWalker/repo] &mdash; _jWalker is a well-tested cross-browser JavaScript implementation of the TreeWalker class defined in the W3C specification for DOM Traversal (DOM Level 2)._
  - [_And more...._][me/gh]
 
 
