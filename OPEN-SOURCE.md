@@ -17,7 +17,7 @@
     - Addon Creator
        - [qunit-assert-html][qu/addon-assert-html]: A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
        - [qunit-reporter-xunit][qu/addon-reporter-xunit]: A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.
- - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ Perhaps you've heard of it? :wink:
+ - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ (Perhaps you've heard of it? :wink:)
     - Plugin Creator
        - [jquery.outerHtml][jq/outerHtml/repo]: [jQuery Plugin Registry][jq/outerHtml/reg] ?
        - [jquery.hub][jq/hub/repo]: [jQuery Plugin Registry][jq/hub/reg] ?
