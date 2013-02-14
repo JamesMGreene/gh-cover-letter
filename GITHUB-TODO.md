@@ -49,7 +49,7 @@ mentally aligned with GitHub's future direction!
    I don't collaborator permissions) from a branch _other_ than the repo's default branch (typically "master" but not
    always), it will incorrectly try to merge it with the default branch when I commit the auto-PR ("Propose File Change"):  
      &nbsp; &nbsp; &nbsp; ![GitHub auto-PR branch bug](img/auto-fork-PR-wrong-branch.png)  
- - When viewing a patch/diff, show a control to toggle the "ignore whitespace" option (i.e. adding `?w=1` to the URL).
+ - When viewing a patch/diff, show a control to toggle the "ignore whitespace" option (i.e. [adding `?w=1` to the URL][gh/blog/secrets]).
    Keeping helpful features hidden is not helpful.
 
 
@@ -139,6 +139,7 @@ function blah() { }
 [gh/import-gist]: https://gist.github.com/7f75ced1fa7576412901/006a7c69f57521e026be85937c9641e861e81802
 [gh/blog/task-list]: https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
 [gh/blog/inline-file-editing]: https://github.com/blog/143-inline-file-editing
+[gh/blog/secrets]: https://github.com/blog/967-github-secrets
 [gh/emoji-cheat-sheet]: http://www.emoji-cheat-sheet.com/
 [ariya/blog/searchability]: http://ariya.ofilabs.com/2012/08/github-and-lack-of-searchability.html
 [ariya/blog/tracker]: http://ariya.ofilabs.com/2012/11/issue-tracker-github-vs-google-code.html
