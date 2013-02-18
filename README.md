@@ -2,18 +2,27 @@
 
 ---
 
-**TL;DR:**
+**TL;DR:**  
  1. I like these things about GitHub
  2. Some other things can be fixed
  3. I really want to fix them
 
 
+**Long Form:**  
 GitHub helps people build amazing software together. With the collaborative features of GitHub, it has never been
 easier for individuals and teams to write better code, faster.<sup>\[[1][gh/about]\]</sup> 
 
 Come help us make collaboration even better.
 At GitHub we build the tools that make collaborating and writing software easier.
 <sup>\[[2][gh/jobs]\]</sup>
+
+**Regarding GITHUB-TODO.md:**  
+> **@JamesMGreene**: I just keep adding to it [the GITHUB-TODO.md list]. Ironically, I came up with a handful of
+> them while experiencing trouble working on this repo, LOL.  
+> **@jonrohan**: It only gets worse (not in a bad way) when you work here... you see so much and want to fix it all!
+> With 100% freedom, and 100% passion, it's hard to confine yourself.  
+> **@JamesMGreene**: Totally understand!  
+
 
 As [**@mikeal**][mikeal/gh] [blogged][mikeal/generation-gap]:
 > Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
