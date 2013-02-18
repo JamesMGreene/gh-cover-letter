@@ -80,6 +80,16 @@ mentally aligned with GitHub's future direction!
  - Improve branch visualizations, e.g. consider [**@ariya**][gh/ariya]'s [comments][ariya/blog/viewer].
 
 
+### Notifications
+ - Notifications are obviously very handy as they can save a user a lot of effort from having to look through all
+   of their repos and issues of interest to find out if there were any updates. However, it is unfortunate that
+   users have to click into the notification's host page in order to see the actual text. I would love to implement
+   a simple notification previewing functionality such that users could view the notification's text from the
+   central Notifications page and be able to mark it as read. If they still need additional context to understand
+   the message or would like to reply to it, then they will still need to click through to the notification's host
+   page as they do today.
+
+
 ### Gists
  - Allow users to name their Gists. The names don't necessarily need to be restricted to unique names as Gists
    already have unique numerical IDs; rather, the names would just to empower users to not be at the whim of
