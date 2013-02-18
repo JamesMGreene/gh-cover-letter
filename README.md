@@ -43,7 +43,7 @@ As [**@mikeal**][mikeal/gh] [blogged][mikeal/generation-gap]:
  - I :gift_heart: Open Sourcing: [OPEN-SOURCE.md][cover-letter/open-source]
  - I :heart: Learning: [LEARNING.md][cover-letter/learning]
  - I am considered a JavaScript expert by my peers and current employer
- - I may have an emoticon addiction :blush:
+ - I may have an emoji addiction :blush:
 
 
 [me/gh]: http://github.com/JamesMGreene
