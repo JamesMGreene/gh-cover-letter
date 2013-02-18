@@ -3,9 +3,9 @@
 ---
 
 **TL;DR:**  
- 1. I like these things about GitHub
+ 1. I love GitHub as a product, and I especially like these things about it
  2. Some other things can be fixed
- 3. I really want to fix them
+ 3. I really want to fix them and I am passionate about what I do
 
 
 **Long Form:**  
@@ -28,6 +28,7 @@ As [**@mikeal**][mikeal/gh] [blogged][mikeal/generation-gap]:
 > Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
 > generation of open source and the next.
 
+**Notes:**  
  1. Intro + top skills I bring to the table
  2. Elaborate on the skills I bring to the employer
  3. ...
