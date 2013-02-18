@@ -13,8 +13,11 @@
  - **Conference Attendee** :ticket:
     - [Frontend Masters 2][attendee/fem2]
     - [JSConf US][attendee/jsconf2012]
- - **User Group Organizer** :calendar:
-    - [JavaScriptMN][organizer/jsmn]
+ - **Web Community Activist** :fist:
+    - Co-organizer of the [JavaScriptMN][community/jsmn] user group
+    - Actively try to drink from the firehose that is JavaScript news
+    - Proposed a [new JavaScript error handling standard for HTML5][community/html5]
+    - Proposed [several][community/es6-idea1] [ideas][community/es6-idea2] for the TC39 committee on ECMAScript 6 via the [JSFixed group][community/jsfixed]
  - **Teacher** :book:
     - Mentored many coworkers on the .NET Framework, ASP.NET MVC, the JavaScript language, and various JavaScript
       libraries like jQuery, QUnit, RequireJS, etc. _(2006 - present)_
@@ -46,4 +49,8 @@
 [speaker/jsmn]: http://www.meetup.com/JavaScriptMN/events/53366672/
 [attendee/fem2]: http://lanyrd.com/2012/frontendmasters/
 [attendee/jsconf2012]: http://2012.jsconf.us/
-[organizer/jsmn]: http://www.meetup.com/JavaScriptMN/members/?op=leaders
+[community/jsmn]: http://www.meetup.com/JavaScriptMN/members/?op=leaders
+[community/html5]: https://gist.github.com/JamesMGreene/3ded0f6e7f0a658b9394
+[community/es6-idea1]: https://github.com/JSFixed/JSFixed/issues/51
+[community/es6-idea2]: https://github.com/JSFixed/JSFixed/issues/71#issuecomment-5857559
+[community/jsfixed]: https://github.com/JSFixed/JSFixed
