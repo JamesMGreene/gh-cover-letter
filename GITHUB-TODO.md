@@ -84,7 +84,7 @@ mentally aligned with GitHub's future direction!
  - Notifications are obviously very handy as they can save a user a lot of effort from having to look through all
    of their repos and issues of interest to find out if there were any updates. However, it is unfortunate that
    users have to click into the notification's host page in order to see the actual text. I would love to implement
-   a simple notification previewing functionality such that users could view the notification's text from the
+   a simple notification previewing functionality (perhaps on hover) such that users could view the notification's text from the
    central Notifications page and be able to mark it as read. If they still need additional context to understand
    the message or would like to reply to it, then they will still need to click through to the notification's host
    page as they do today.
