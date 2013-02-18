@@ -85,6 +85,8 @@ mentally aligned with GitHub's future direction!
    already have unique numerical IDs; rather, the names would just to empower users to not be at the whim of
    the alphabetical order of the filename(s) in their Gist.
  - _Bug fix:_ currently, [GitHub/Campfire emojis][gh/emoji-cheat-sheet] don't work on Gists.
+ - _Big fix:_ currently, user mentions in Gist comments (e.g. `@ariya`) do not notify that user that they've
+   been mentioned.  I feel that this is arguably a severe issue for Gists and needs to be fixed soon.
 
 
 ### GitHub-Flavored Markdown (GFM)
