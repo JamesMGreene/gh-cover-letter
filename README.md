@@ -2,6 +2,16 @@
 
 ---
 
+I have been contributing to open source on and off through my adult life as a software developer. However, it seemed
+all too easy to walk away from projects &mdash; even my own &mdash; when faced with the process hassle of those code
+hosts (SourceForge, Google Code, Bitbucket, etc.). 
+
+However, as [**@mikeal**][mikeal/gh] [blogged][mikeal/generation-gap]:
+> Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
+> generation of open source and the next.
+
+
+
 **TL;DR:**  
  1. I love GitHub as a product, and I especially like these things about it
  2. Some other things can be fixed
@@ -23,10 +33,6 @@ At GitHub we build the tools that make collaborating and writing software easier
 > With 100% freedom, and 100% passion, it's hard to confine yourself.  
 > **@JamesMGreene**: Totally understand!  
 
-
-As [**@mikeal**][mikeal/gh] [blogged][mikeal/generation-gap]:
-> Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
-> generation of open source and the next.
 
 **Notes:**  
  1. Intro + top skills I bring to the table
