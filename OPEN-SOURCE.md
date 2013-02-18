@@ -15,18 +15,26 @@
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
     - [Contributor][qu/repo]
     - Addon Creator
-       - [qunit-assert-html][qu/addon-assert-html]: A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
-       - [qunit-reporter-xunit][qu/addon-reporter-xunit]: A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.
+       - [qunit-assert-html][qu/addon-assert-html]:  
+         A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
+       - [qunit-reporter-xunit][qu/addon-reporter-xunit]:  
+         A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.
  - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ (Perhaps you've heard of it? :wink:)
     - Plugin Creator
-       - [jquery.outerHtml][jq/outerHtml/repo]: A simple jQuery plugin to get the outer HTML of an element, a la IE's [formerly] proprietary `outerHTML` property on elements. Also available on the [jQuery Plugin Registry][jq/outerHtml/reg].
-       - [jquery.hub][jq/hub/repo]: A well-tested jQuery plugin implementing enterprise-level messaging patterns atop the OpenAjax [Unmanaged] Hub. Great for decoupling cross-component communication on the client-side. Also available on the [jQuery Plugin Registry][jq/hub/reg]. ?
-       - [jquery.textSelect][jq/textSelect/repo]: jQuery plugin that creates a bindable special event for user text selection: "textSelect". Also available on the [jQuery Plugin Registry][jq/textSelect/reg].
-       - [jquery.multiclick][jq/multiclick/repo]: jQuery plugin that creates a bindable special event for a configurable number of clicks: "multiclick". Also available on the [jQuery Plugin Registry][jq/multiclick/reg].
+       - [jquery.outerHtml][jq/outerHtml/repo]:  
+         A simple jQuery plugin to get the outer HTML of an element, a la IE's [formerly] proprietary `outerHTML` property on elements. Also available on the [jQuery Plugin Registry][jq/outerHtml/reg].
+       - [jquery.hub][jq/hub/repo]:  
+         A well-tested jQuery plugin implementing enterprise-level messaging patterns atop the OpenAjax [Unmanaged] Hub. Great for decoupling cross-component communication on the client-side. Also available on the [jQuery Plugin Registry][jq/hub/reg]. ?
+       - [jquery.textSelect][jq/textSelect/repo]:  
+         jQuery plugin that creates a bindable special event for user text selection: "textSelect". Also available on the [jQuery Plugin Registry][jq/textSelect/reg].
+       - [jquery.multiclick][jq/multiclick/repo]:  
+         jQuery plugin that creates a bindable special event for a configurable number of clicks: "multiclick". Also available on the [jQuery Plugin Registry][jq/multiclick/reg].
  - [Node.js][node/site] &mdash; _Node.js is server-side JavaScript execution environment with an event-driven, non-blocking I/O model._
     - Module Creator
-       - [gcph-client][node/gcph-client/repo]: Migration tool(s) for fetching issues from the Google Code Issue Tracker API and translating that data into a GitHub Issue Tracker offline-importable format. Also available on the [NPM Registry][node/gcph-client/reg].
-       - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]: A Node.js client for the Google Code Project Hosting Issue Tracker API. Also available on the [NPM Registry][node/gc2gh-issue-migrator/reg].
+       - [gcph-client][node/gcph-client/repo]:  
+         Migration tool(s) for fetching issues from the Google Code Issue Tracker API and translating that data into a GitHub Issue Tracker offline-importable format. Also available on the [NPM Registry][node/gcph-client/reg].
+       - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]:  
+         A Node.js client for the Google Code Project Hosting Issue Tracker API. Also available on the [NPM Registry][node/gc2gh-issue-migrator/reg].
  - [jWalker][other/jWalker/repo] &mdash; _jWalker is a well-tested cross-browser JavaScript implementation of the TreeWalker class defined in the W3C specification for DOM Traversal (DOM Level 2)._
  - [_And more...._][me/gh]
 
