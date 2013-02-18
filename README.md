@@ -2,19 +2,22 @@
 
 ---
 
-GitHub helps people build software together.
-Over two million people use GitHub to build amazing things together.
-With the collaborative features of GitHub, it has never been easier for individuals and teams to write better code, faster.
-<sup>\[[1][gh/about]\]</sup> 
+**TL;DR:**
+ 1. I like these things about GitHub
+ 2. Some other things can be fixed
+ 3. I really want to fix them
+
+
+GitHub helps people build amazing software together. With the collaborative features of GitHub, it has never been
+easier for individuals and teams to write better code, faster.<sup>\[[1][gh/about]\]</sup> 
 
 Come help us make collaboration even better.
 At GitHub we build the tools that make collaborating and writing software easier.
 <sup>\[[2][gh/jobs]\]</sup>
 
-The most popular code host on the planet.
-More people trust GitHub to host their code than any other host on the planet.
-We spend 24 hours a day tending to your repositories so you can focus on more important things.
-<sup>\[[3][gh/hosting]\]</sup>
+As [**@mikeal**][mikeal/gh] [blogged][mikeal/generation-gap]:
+> Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
+> generation of open source and the next.
 
  1. Intro + top skills I bring to the table
  2. Elaborate on the skills I bring to the employer
@@ -39,7 +42,8 @@ We spend 24 hours a day tending to your repositories so you can focus on more im
 [me/site]: http://jamesgreene.net/
 [gh/about]: https://github.com/about
 [gh/jobs]: https://github.com/about/jobs
-[gh/hosting]: https://github.com/features/hosting
+[mikeal/gh]: https://github.com/mikeal
+[mikeal/generation-gap]: http://www.futurealoof.com/posts/generation-gap.html
 [cover-letter/github-todo]: GITHUB-TODO.md
 [cover-letter/open-source]: OPEN-SOURCE.md
 [cover-letter/learning]: LEARNING.md
