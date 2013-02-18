@@ -115,6 +115,11 @@ function blah() { }
    zero width space characters][jmg/gfm-escape-backtick-commit] (`&#x200B;`) to do so [for the previous bullet!].
 
 
+### GitHub app for Android
+ - Users can edit and close their submitted Issues. However, commenters cannot edit or delete their comments.
+   I'd like to see that changed!
+ - Users can create new Gists, which is awesome. However, I would also like to be able to edit existing Gists.
+
 
 ### Increasing Popularity
  - We can help more projects migrate to GitHub by providing more streamlined import processes.
@@ -128,6 +133,16 @@ function blah() { }
    and migrate more projects from there.
 
 
+### Peripherals
+ - [Octopress][octopress/site] is "a blogging framework for hackers" that uses [**@mojombo**][gh/tom]'s
+   [Jekyll][octopress/jekyll] to generate blog posts for static hosting on GitHub Pages. I'd like to try creating
+   an Octopress plugin [or a standalone utility library] for allowing blog readers to comment on posts (i.e. like Disqus)
+   with GitHub-Flavored Markdown, using GitHub application authorization such that the authenticated user will actually
+   be creating a file in the blog repo's pertinent folder for the post being commented on. Theoretically, this would
+   also allow that user to edit and/or delete their comment later as well.
+   
+
+
 
 [me/gh]: http://github.com/JamesMGreene
 [me/t]: http://twitter.com/_JamesMGreene
@@ -136,6 +151,7 @@ function blah() { }
 [gh/ariya]: https://github.com/ariya
 [gh/rick]: https://github.com/technoweenie
 [gh/jon]: https://github.com/jonrohan
+[gh/tom]: https://github.com/mojombo
 [gh/import-gist]: https://gist.github.com/7f75ced1fa7576412901/006a7c69f57521e026be85937c9641e861e81802
 [gh/blog/task-list]: https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments
 [gh/blog/inline-file-editing]: https://github.com/blog/143-inline-file-editing
@@ -156,4 +172,5 @@ function blah() { }
 [zc/repo]: https://github.com/jonrohan/ZeroClipboard
 [zc/issue-template-example]: https://github.com/jonrohan/ZeroClipboard/issues/85#issuecomment-12543512
 [wiki/cla]: http://en.wikipedia.org/wiki/Contributor_License_Agreement
-
+[octopress/site]: http://octopress.org/
+[octopress/jekyll]: https://github.com/mojombo/jekyll
