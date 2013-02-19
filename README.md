@@ -10,11 +10,11 @@ hosts (SourceForge, Google Code, Bitbucket, etc.).
 > generation of open source and the next.  
 >  &nbsp; ~~ [**@mikeal**][mikeal/gh] <sup>\[[1][mikeal/generation-gap]\]</sup>
 
-I couldn't agree more! As a product, GitHub has fundamentally changed my open source activity. I expect this change
-will stick with me for the rest of my life. From the quickness of repo setup, to the integrated and easy-to-use
-issue tracker, to the amazing Pull Request mechanism, to the succinctness of GitHub-Flavored Markdown, to the integration with Travis-CI through service hooks... 
-GitHub's innovations in collaboration are always making it "easier for individuals and teams to write better code,
-faster".<sup>\[[2][gh/about]\]</sup>
+I couldn't agree more! As a product, GitHub has fundamentally changed my open source activity in a way that is sticking
+with me when so many others did not. From the quickness of repo setup, to the integrated and easy-to-use issue tracker,
+to the amazing Pull Request mechanism, to the succinctness of GitHub-Flavored Markdown, to the integration with
+Travis-CI through service hooks... GitHub's innovations in collaboration are always making it "easier for individuals
+and teams to write better code, faster".<sup>\[[2][gh/about]\]</sup>
 
 GitHub has really helped me take my development skills and open source life to the next level, and now I would like to
 return the favor:  
