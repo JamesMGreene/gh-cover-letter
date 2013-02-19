@@ -6,25 +6,33 @@ I have been contributing to open source on and off through my adult life as a so
 all too easy to walk away from projects &mdash; even my own &mdash; when faced with the process hassle of those code
 hosts (SourceForge, Google Code, Bitbucket, etc.). 
 
-However, as [**@mikeal**][mikeal/gh] [blogged][mikeal/generation-gap]:
 > Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
-> generation of open source and the next.
+> generation of open source and the next.  
+>  &nbsp; ~~ [**@mikeal**][mikeal/gh] <sup>\[[1][mikeal/generation-gap]\]</sup>
 
+I couldn't agree more! As a product, GitHub has fundamentally changed my open source activity. I expect this change
+will stick with me for the rest of my life. From the quickness of repo setup, to the integrated and easy-to-use
+issue tracker, to the amazing Pull Request mechanism, to the integration with Travis-CI through service hooks... 
+GitHub's innovations in collaboration are always making it "easier for individuals and teams to write better code,
+faster".<sup>\[[2][gh/about]\]</sup>
 
+GitHub has really helped me take my development skills and open source life to the next level, and now I would like to
+return the favor: I want to come work for GitHub and do my part to keep it the best code host around.
 
-**TL;DR:**  
  1. I love GitHub as a product, and I especially like these things about it
  2. Some other things can be fixed
  3. I really want to fix them and I am passionate about what I do
 
+GitHub helps people build amazing software together.<sup>\[[2][gh/about]\]</sup>
 
-**Long Form:**  
-GitHub helps people build amazing software together. With the collaborative features of GitHub, it has never been
-easier for individuals and teams to write better code, faster.<sup>\[[1][gh/about]\]</sup> 
+In my opinion, GitHub has established itself as the currently uncontested "King of Code Hosts".
+
+With the collaborative features of GitHub, it has never been
+easier for individuals and teams to write better code, faster.
 
 Come help us make collaboration even better.
 At GitHub we build the tools that make collaborating and writing software easier.
-<sup>\[[2][gh/jobs]\]</sup>
+<sup>\[[3][gh/jobs]\]</sup>
 
 **Regarding GITHUB-TODO.md:**  
 > **@JamesMGreene**: I just keep adding to it [the GITHUB-TODO.md list]. Ironically, I came up with a handful of
