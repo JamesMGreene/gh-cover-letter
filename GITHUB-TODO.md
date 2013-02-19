@@ -28,7 +28,7 @@ mentally aligned with GitHub's future direction!
     - For bigger projects (which are hopefully setup as organizations), it would be nice to be able to give "collaborators"
       permissions over particular aspects of the project (e.g. "issue administrators" vs. "wiki administrators" vs. "code
       collaborators", etc.), as well as possibly of branches (e.g. can work on the "docs" branch vs. "gh-pages" branch vs.
-      "master" branch), etc. Of course, striking the right balance of simplicity vs. capability is the obvious quandry
+      "master" branch), etc. Of course, striking the right balance of simplicity vs. capability is the obvious quandary
       to tackle here.
 
 
