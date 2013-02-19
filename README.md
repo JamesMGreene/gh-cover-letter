@@ -21,8 +21,8 @@ return the favor:
 **I want to work for GitHub, and I will do my best to ensure we continue to push the envelope!**
 
 As amazing as GitHub already is, I am confident that I can help us achieve even more! I already have been [collecting
-my ideas][cover-letter/github-todo] for quite a few new features, as well as noting a few particularly annoying bugs that
-I'd like to squash. After I had created the initial draft of this list, I was so invigorated at the prospect of being a
+my ideas][cover-letter/github-todo] for quite a few new features, as well as noting a few bugs whose squashing
+I'd like to see to personally. After I had created the initial draft of this list, I was so invigorated at the prospect of being a
 part of the GitHub family that I couldn't even stop myself from continuing to add more and more ideas to it.
 Ironically, perhaps, but not surprisingly: most of the handful of bugs that I noted were found as a direct result of
 putting this very "gh-cover-letter" repo together. As a believer in dogfooding (or "eating your own dog food"), this
