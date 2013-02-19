@@ -48,7 +48,7 @@ even better!
 of the knowledge that I absorb.
  - I am very passionate about creating _and shipping_ high quality software; a desire which is complimented well by my
 detail-oriented nature.
- - I am _obsessed_ with the three Cs of open source: [creating, contributing][cover-letter/open-source], and consuming.
+ - I am _obsessed_ with the three Cs of open source: [creating, contributing, and consuming][cover-letter/open-source].
  - I have an unabashed love for JavaScript that most engineers consider unhealthy.
  - Oh, and &mdash; in case you couldn't tell &mdash; I am already crazy about GitHub. :heart_eyes:
 
