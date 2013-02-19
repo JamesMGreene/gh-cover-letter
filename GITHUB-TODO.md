@@ -38,7 +38,7 @@ mentally aligned with GitHub's future direction!
    does not have its Issues feature enabled [yet].
  - Consider providing a way to integrate a [CLA][wiki/cla] check
    into the PR submission process. While many projects will not need this functionality, there are definitely some
-   biggers projects/organizations (e.g. jQuery, Dojo, etc.) that I'm sure would appreciate this feature.
+   larger projects/organizations (e.g. jQuery, Dojo, etc.) that I'm sure would appreciate this feature.
  - I love GitHub's auto-merge functionality for PRs that don't have any merge conflicts. However, I very much dislike
    the commit that it generates as, although it does honor the PR contributor's commit in the history, it adds a
    second commit for the merge:  
