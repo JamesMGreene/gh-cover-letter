@@ -13,7 +13,7 @@
  - [ZeroClipboard][zc/site] &mdash; _ZeroClipboard is a JavaScript library that enables clipboard injection using an invisible Adobe Flash movie._
     - [Collaborator][zc/repo]: Working 1-on-1 with [**@jonrohan**][gh/jon]
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
-    - [Contributor][qu/repo]
+    - [Contributor][qu/repo], soon to be a Collaborator
     - Addon Creator
        - [qunit-assert-html][qu/addon-assert-html]:  
          A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
@@ -35,6 +35,11 @@
          Migration tool(s) for fetching issues from the Google Code Issue Tracker API and translating that data into a GitHub Issue Tracker offline-importable format. Also available on the [NPM Registry][node/gcph-client/reg].
        - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]:  
          A Node.js client for the Google Code Project Hosting Issue Tracker API. Also available on the [NPM Registry][node/gc2gh-issue-migrator/reg].
+ - [Grunt][grunt/site] &mdash; _"The JavaScript Task Runner"_
+    - Plugin Creator
+       - [grunt-chmod][grunt/chmod/repo]:  
+         A Grunt task plugin to modify file permissions, i.e. like using `chmod`. Also available on the
+         [Grunt Plugin Registry][grunt/chmod/plugin-reg]. Also available on the [NPM Registry][node/grunt-chmod/reg].
  - [jWalker][other/jWalker/repo] &mdash; _jWalker is a well-tested cross-browser JavaScript implementation of the TreeWalker class defined in the W3C specification for DOM Traversal (DOM Level 2)._
  - [_And more...._][me/gh]
 
@@ -72,5 +77,9 @@
 [node/gcph-client/reg]: https://npmjs.org/package/gcph-client
 [node/gc2gh-issue-migrator/repo]: https://github.com/JamesMGreene/gc2gh-issue-migrator
 [node/gc2gh-issue-migrator/reg]: https://npmjs.org/package/gc2gh-issue-migrator
+[node/grunt-chmod/reg]: https://npmjs.org/package/grunt-chmod
+[grunt/site]: http://gruntjs.com/
+[grunt/chmod/repo]: https://github.com/JamesMGreene/grunt-chmod
+[grunt/chmod/plugin-reg]: http://gruntjs.com/plugins
 [other/jWalker/repo]: https://github.com/JamesMGreene/jWalker
 [other/jWalker/site]: http://jamesmgreene.github.com/jWalker
