@@ -12,7 +12,7 @@ hosts (SourceForge, Google Code, Bitbucket, etc.).
 
 I couldn't agree more! As a product, GitHub has fundamentally changed my open source activity. I expect this change
 will stick with me for the rest of my life. From the quickness of repo setup, to the integrated and easy-to-use
-issue tracker, to the amazing Pull Request mechanism, to the integration with Travis-CI through service hooks... 
+issue tracker, to the amazing Pull Request mechanism, to the succinctness of GitHub-Flavored Markdown, to the integration with Travis-CI through service hooks... 
 GitHub's innovations in collaboration are always making it "easier for individuals and teams to write better code,
 faster".<sup>\[[2][gh/about]\]</sup>
 
@@ -49,7 +49,7 @@ of the knowledge that I absorb.
  - I am very passionate about creating _and shipping_ high quality software; a desire which is complimented well by my
 detail-oriented nature.
  - I am _obsessed_ with the three Cs of open source: [creating, contributing][cover-letter/open-source], and consuming.
- - I have an unabashed love for JavaScript that most developers consider unhealthy.
+ - I have an unabashed love for JavaScript that most engineers consider unhealthy.
  - Oh, and &mdash; in case you couldn't tell &mdash; I am already crazy about GitHub. :heart_eyes:
 
 
