@@ -17,37 +17,30 @@ GitHub's innovations in collaboration are always making it "easier for individua
 faster".<sup>\[[2][gh/about]\]</sup>
 
 GitHub has really helped me take my development skills and open source life to the next level, and now I would like to
-return the favor: I want to come work for GitHub and do my part to keep it the best code host around.
+return the favor:  
+**I want to work for GitHub, and I will do my best to ensure we continue to push the envelope!**
 
- 1. I love GitHub as a product, and I especially like these things about it
- 2. Some other things can be fixed
- 3. I really want to fix them and I am passionate about what I do
+As amazing as GitHub already is, I am confident that I can help us achieve even more! I already have
+[many new feature ideas, as well as a few bugs to fix][cover-letter/github-todo].
 
-GitHub helps people build amazing software together.<sup>\[[2][gh/about]\]</sup>
 
-In my opinion, GitHub has established itself as the currently uncontested "King of Code Hosts".
-
-With the collaborative features of GitHub, it has never been
-easier for individuals and teams to write better code, faster.
-
-Come help us make collaboration even better.
-At GitHub we build the tools that make collaborating and writing software easier.
-<sup>\[[3][gh/jobs]\]</sup>
-
-**Regarding GITHUB-TODO.md:**  
-> **@JamesMGreene**: I just keep adding to it [the GITHUB-TODO.md list]. Ironically, I came up with a handful of
-> them while experiencing trouble working on this repo, LOL.  
-> **@jonrohan**: It only gets worse (not in a bad way) when you work here... you see so much and want to fix it all!
-> With 100% freedom, and 100% passion, it's hard to confine yourself.  
-> **@JamesMGreene**: Totally understand!  
+_**Still raw:**_  
+ - I really want to fix them and I am passionate about what I do.
+ - GitHub helps people build amazing software together.<sup>\[[2][gh/about]\]</sup>
+ - In my opinion, GitHub has established itself as the currently uncontested "King of Code Hosts".
+ - I love GitHub.
+ - Come help us make collaboration even better. At GitHub we build the tools that make collaborating and writing software easier. <sup>\[[3][gh/jobs]\]</sup>
+ - Regarding GITHUB-TODO.md:  
+    > **@JamesMGreene**: I just keep adding to it [the GITHUB-TODO.md list]. Ironically, I came up with a handful of
+    > them while experiencing trouble working on this repo, LOL.  
+    > **@jonrohan**: It only gets worse (not in a bad way) when you work here... you see so much and want to fix it all!
+    > With 100% freedom, and 100% passion, it's hard to confine yourself.  
+    > **@JamesMGreene**: Totally understand!  
 
 
 **Notes:**  
- 1. Intro + top skills I bring to the table
- 2. Elaborate on the skills I bring to the employer
- 3. ...
- 4. ...
- 5. Provide additional contact information? Confidently request an interview.
+ - Elaborate on the skills I bring to the employer
+
 
 
 ---
