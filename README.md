@@ -20,27 +20,37 @@ GitHub has really helped me take my development skills and open source life to t
 return the favor:  
 **I want to work for GitHub, and I will do my best to ensure we continue to push the envelope!**
 
-As amazing as GitHub already is, I am confident that I can help us achieve even more! I already have
-[many new feature ideas, as well as a few bugs to fix][cover-letter/github-todo].
+As amazing as GitHub already is, I am confident that I can help us achieve even more! I already have been [collecting
+my ideas][cover-letter/github-todo] for quite a few new features, as well as noting a few particularly annoying bugs that
+I'd like to squash. After I had created the initial draft of this list, I was so invigorated at the prospect of being a
+part of the GitHub family that I couldn't even stop myself from continuing to add more and more ideas to it.
+Ironically, perhaps, but not surprisingly: most of the handful of bugs that I noted were found as a direct result of
+putting this very "gh-cover-letter" repo together. As a believer in dogfooding (or "eating your own dog food"), this
+seemed like the perfect experience to kick off what I hope will be the start of my career at GitHub!
+
+GitHub helps people build amazing software together<sup>\[[2][gh/about]\]</sup> by creating the tools that make
+collaborating and writing software easier.<sup>\[[3][gh/jobs]\]</sup> In doing so, I firmly believe that GitHub
+has established itself as the currently uncontested "King of Code Hosts". Now, I want to help GitHub make collaboration
+even better!
+
+### Technical Prowess
+ - I am a JavaScript language expert, for both the frontend (browsers) and back (Node.js, PhantomJS, etc.).
+ - I am extremely proficient at [and well-versed in] learning new programming languages and frameworks.
+ - I am a practitioner of unit testing, though I know from experience that it doesn't always pan out as well we hope.
+ - I am a regular GitHub.com user but I accomplish most of my Git interactions from the terminal.
+ - I am extraordinarily detail-oriented.
 
 
-_**Still raw:**_  
- - I really want to fix them and I am passionate about what I do.
- - GitHub helps people build amazing software together.<sup>\[[2][gh/about]\]</sup>
- - In my opinion, GitHub has established itself as the currently uncontested "King of Code Hosts".
- - I love GitHub.
- - Come help us make collaboration even better. At GitHub we build the tools that make collaborating and writing software easier. <sup>\[[3][gh/jobs]\]</sup>
- - Regarding GITHUB-TODO.md:  
-    > **@JamesMGreene**: I just keep adding to it [the GITHUB-TODO.md list]. Ironically, I came up with a handful of
-    > them while experiencing trouble working on this repo, LOL.  
-    > **@jonrohan**: It only gets worse (not in a bad way) when you work here... you see so much and want to fix it all!
-    > With 100% freedom, and 100% passion, it's hard to confine yourself.  
-    > **@JamesMGreene**: Totally understand!  
-
-
-**Notes:**  
- - Elaborate on the skills I bring to the employer
-
+### Personality
+ - I am an easy-going person and enjoy working with others, though I have also been an "individual contributor" for
+   much of my professional career.
+ - I refuse to stop [learning][cover-letter/learning], and I strive to find a healthy balance between the breadth and depth
+of the knowledge that I absorb.
+ - I am very passionate about creating _and shipping_ high quality software; a desire which is complimented well by my
+detail-oriented nature.
+ - I am _obsessed_ with the three Cs of open source: [creating, contributing][cover-letter/open-source], and consuming.
+ - I have an unabashed love for JavaScript that most developers consider unhealthy.
+ - Oh, and &mdash; in case you couldn't tell &mdash; I am already crazy about GitHub. :heart_eyes:
 
 
 ---
