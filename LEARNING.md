@@ -39,10 +39,10 @@
     - _Oh, so much to learn...!_
 
 
-[me/gh]: http://github.com/JamesMGreene
-[me/t]: http://twitter.com/_JamesMGreene
-[me/email]: mailto:james.m.greene@gmail.com
-[me/site]: http://jamesgreene.net/
+[me/gh]: http://github.com/JamesMGreene "GitHub"
+[me/t]: http://twitter.com/_JamesMGreene "Twitter"
+[me/email]: mailto:james.m.greene@gmail.com "Email"
+[me/site]: http://about.me/JamesMGreene "Website"
 [cover-letter/open-source]: OPEN-SOURCE.md
 [speaker/tccc12]: http://www.twincitiescodecamp.com/tccc/spring2012/sessions.aspx#s5
 [speaker/jsconf2012]: http://2012.jsconf.us/#/schedule

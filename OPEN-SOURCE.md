@@ -57,7 +57,7 @@
 [me/gh]: http://github.com/JamesMGreene "GitHub"
 [me/t]: http://twitter.com/_JamesMGreene "Twitter"
 [me/email]: mailto:james.m.greene@gmail.com "Email"
-[me/site]: http://jamesgreene.net/ "Website"
+[me/site]: http://about.me/JamesMGreene "Website"
 [gh/rick]: https://github.com/technoweenie
 [gh/jon]: https://github.com/jonrohan
 [pjs/site]: https://phantomjs.org/

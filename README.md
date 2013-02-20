@@ -63,10 +63,10 @@ detail-oriented nature.
  - I may have an emoji addiction :blush:
 
 
-[me/gh]: http://github.com/JamesMGreene
-[me/t]: http://twitter.com/_JamesMGreene
-[me/email]: mailto:james.m.greene@gmail.com
-[me/site]: http://jamesgreene.net/
+[me/gh]: http://github.com/JamesMGreene "GitHub"
+[me/t]: http://twitter.com/_JamesMGreene "Twitter"
+[me/email]: mailto:james.m.greene@gmail.com "Email"
+[me/site]: http://about.me/JamesMGreene "Website"
 [gh/about]: https://github.com/about
 [gh/jobs]: https://github.com/about/jobs
 [mikeal/gh]: https://github.com/mikeal

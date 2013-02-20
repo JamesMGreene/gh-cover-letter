@@ -156,10 +156,10 @@ function blah() { }
 
 
 
-[me/gh]: http://github.com/JamesMGreene
-[me/t]: http://twitter.com/_JamesMGreene
-[me/email]: mailto:james.m.greene@gmail.com
-[me/site]: http://jamesgreene.net/
+[me/gh]: http://github.com/JamesMGreene "GitHub"
+[me/t]: http://twitter.com/_JamesMGreene "Twitter"
+[me/email]: mailto:james.m.greene@gmail.com "Email"
+[me/site]: http://about.me/JamesMGreene "Website"
 [gh/ariya]: https://github.com/ariya
 [gh/rick]: https://github.com/technoweenie
 [gh/jon]: https://github.com/jonrohan
