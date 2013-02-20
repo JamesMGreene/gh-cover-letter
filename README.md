@@ -3,7 +3,7 @@
 ---
 
 I have been contributing to open source on and off through my adult life as a software developer. However, it seemed
-all too easy to walk away from projects &mdash; even my own &mdash; when faced with the process hassle of those code
+all too easy to walk away from projects &mdash; even my own &mdash; when faced with the process hassles of other code
 hosts (SourceForge, Google Code, Bitbucket, etc.). 
 
 > Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
@@ -11,7 +11,7 @@ hosts (SourceForge, Google Code, Bitbucket, etc.).
 >  &nbsp; ~~ [**@mikeal**][mikeal/gh] <sup>\[[1][mikeal/generation-gap]\]</sup>
 
 I couldn't agree more! As a product, GitHub has fundamentally changed my open source activity in a way that is sticking
-with me when so many others did not. From the quickness of repo setup, to the integrated and easy-to-use issue tracker,
+with me when so many others did not. From the efficiency of repo setup, to the integrated and easy-to-use issue tracker,
 to the amazing Pull Request mechanism, to the succinctness of GitHub-Flavored Markdown, to the integration with
 Travis-CI through service hooks... GitHub's innovations in collaboration are always making it "easier for individuals
 and teams to write better code, faster".<sup>\[[2][gh/about]\]</sup>
@@ -20,17 +20,17 @@ GitHub has really helped me take my development skills and open source life to t
 return the favor:  
 **I want to work for GitHub, and I will do my best to ensure we continue to push the envelope!**
 
-As amazing as GitHub already is, I am confident that I can help us achieve even more! I already have been [collecting
+As amazing as GitHub already is, I am confident that I can help us achieve even more! I have already been [collecting
 my ideas][cover-letter/github-todo] for quite a few new features, as well as noting a few bugs whose squashing
 I'd like to see to personally. After I had created the initial draft of this list, I was so invigorated at the prospect of being a
-part of the GitHub family that I couldn't even stop myself from continuing to add more and more ideas to it.
-Ironically, perhaps, but not surprisingly: most of the handful of bugs that I noted were found as a direct result of
+part of the GitHub family that I couldn't stop myself from continuing to add more and more ideas to it.
+Ironically, but perhaps not surprisingly, most of the bugs that I noted were found as a direct result of
 putting this very "gh-cover-letter" repo together. As a believer in dogfooding (or "eating your own dog food"), this
 seemed like the perfect experience to kick off what I hope will be the start of my career at GitHub!
 
 GitHub helps people build amazing software together<sup>\[[2][gh/about]\]</sup> by creating the tools that make
 collaborating and writing software easier.<sup>\[[3][gh/jobs]\]</sup> In doing so, I firmly believe that GitHub
-has established itself as the currently uncontested "King of Code Hosts". Now, I want to help GitHub make collaboration
+has established itself as the uncontested "King of Code Hosts". Now, I want to help GitHub make collaboration
 even better!
 
 ### Technical Prowess
