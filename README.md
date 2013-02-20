@@ -3,7 +3,7 @@
 ---
 
 I have been contributing to open source on and off through my adult life as a software developer. However, it seemed
-all too easy to walk away from projects &mdash; even my own &mdash; when faced with the process hassles of other code
+all too easy to walk away from projects&mdash;even my own&mdash;when faced with the process hassles of other code
 hosts (SourceForge, Google Code, Bitbucket, etc.). 
 
 > Then GitHub happened. ...It turned out to be so disruptive that it created a cultural divide between the previous
@@ -50,7 +50,7 @@ of the knowledge that I absorb.
 detail-oriented nature.
  - I am _obsessed_ with the three Cs of open source: [creating, contributing, and consuming][cover-letter/open-source].
  - I have an unabashed love for JavaScript that most engineers consider unhealthy.
- - Oh, and &mdash; in case you couldn't tell &mdash; I am already crazy about GitHub. :heart_eyes:
+ - Oh, and&mdash;in case you couldn't tell&mdash;I am already crazy about GitHub. :heart_eyes:
 
 
 ---
