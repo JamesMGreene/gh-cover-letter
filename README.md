@@ -12,7 +12,7 @@ hosts (SourceForge, Google Code, Bitbucket, etc.).
 
 I couldn't agree more! As a product, GitHub has fundamentally changed my open source activity in a way that is sticking
 with me when so many others did not. From the efficiency of repo setup, to the integrated and easy-to-use issue tracker,
-to the amazing Pull Request mechanism, to the succinctness of GitHub-Flavored Markdown, to the integration with
+to the fluid Pull Request mechanism, to the succinctness of GitHub-Flavored Markdown, to the integration with
 Travis-CI through service hooks... GitHub's innovations in collaboration are always making it "easier for individuals
 and teams to write better code, faster".<sup>\[[2][gh/about]\]</sup>
 
@@ -20,7 +20,7 @@ GitHub has really helped me take my development skills and open source life to t
 return the favor:  
 **I want to work for GitHub, and I will do my best to ensure we continue to push the envelope!**
 
-As amazing as GitHub already is, I am confident that I can help us achieve even more! I have already been [collecting
+As fantastic as GitHub already is, I am confident that I can help us achieve even more! I have already been [collecting
 my ideas][cover-letter/github-todo] for quite a few new features, as well as noting a few bugs whose squashing
 I'd like to see to personally. After I had created the initial draft of this list, I was so invigorated at the prospect of being a
 part of the GitHub family that I couldn't stop myself from continuing to add more and more ideas to it.
