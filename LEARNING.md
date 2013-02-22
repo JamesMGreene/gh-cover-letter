@@ -14,7 +14,7 @@
     - [Frontend Masters 2][attendee/fem2]
     - [JSConf US][attendee/jsconf2012]
  - **Web Community Activist** :fist:
-    - Co-organizer of the [JavaScriptMN][community/jsmn] user group
+    - Co-organizer of the [JavaScriptMN][community/jsmn] user group (500+ members, average of 50 attendees)
     - Actively try to drink from the firehose that is JavaScript news
     - Proposed a [new JavaScript error handling standard for HTML5][community/html5]
     - Proposed [several][community/es6-idea1] [ideas][community/es6-idea2] for the TC39 committee on ECMAScript 6 via the [JSFixed group][community/jsfixed]
