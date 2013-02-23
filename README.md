@@ -59,6 +59,7 @@ detail-oriented nature.
  - I have ideas for GitHub :octocat:: [GITHUB-TODO.md][cover-letter/github-todo]
  - I :gift_heart: Open Sourcing: [OPEN-SOURCE.md][cover-letter/open-source]
  - I :heart: Learning: [LEARNING.md][cover-letter/learning]
+ - I am very proud of a particular project: [BEST-PROJECT.md][cover-letter/best-project]
  - I am considered a JavaScript expert by my peers and current employer
  - I may have an emoji addiction :blush:
 
@@ -74,3 +75,4 @@ detail-oriented nature.
 [cover-letter/github-todo]: GITHUB-TODO.md
 [cover-letter/open-source]: OPEN-SOURCE.md
 [cover-letter/learning]: LEARNING.md
+[cover-letter/best-project]: BEST-PROJECT.md
