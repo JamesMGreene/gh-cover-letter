@@ -13,10 +13,11 @@ The best project that I have had the honor of spearheading was the prototyping, 
 
 ### Why?
 So why was this feature the best project I've worked on to date?  It was:
- - "Impossible": When our Information Architect originally brought the idea to me and my team on a Friday afternoon, we all thought it was impossible to achieve, especially cross-browser (IE >= 7, and friends). None of us had ever seen such functionality on the web at that point, only in desktop applications like Adobe Reader/Acrobat&mdash;and it is still quite rare even today. However, all of our biggest competitors have added since attempted to copy our functionality... some mostly successfully, some not.
- - Agile: ?
- - Unique Knowledge: Even as seasoned web developers, what we didn't know during our IA's initial pitch was that the browsers did each offer _one of two_ Selection & Range DOM APIs: IE's proprietary model or the W3C standardized model. Both models have their pros and cons but were certainly not equivalent. As it turned out, a working prototype was much easier to achieve with IE's model but I was eventually able to achieve consistent cross-browser functionality over the next few weeks. The work I had to do to bridge the gaps was effectively a proprietary precursor to the [Rangy][rangy] JavaScript library.
- - Challenging: ?
+ - **"Impossible":** When our Information Architect originally brought the idea to me and my team on a Friday afternoon, we all thought it was impossible to achieve, especially cross-browser (IE >= 7, and friends). None of us had ever seen such functionality on the web at that point, only in desktop applications like Adobe Reader/Acrobat&mdash;and it is still quite rare even today. However, all of our biggest competitors have added since attempted to copy our functionality... some mostly successfully, some not.
+ - **Agile:** ?
+ - **Unique Knowledge:** Even as seasoned web developers, what we didn't know during our IA's initial pitch was that the browsers did each offer _one of two_ Selection & Range DOM APIs: IE's proprietary model or the W3C standardized model. Both models have their pros and cons but were certainly not equivalent. As it turned out, a working prototype was much easier to achieve with IE's model but I was eventually able to achieve consistent cross-browser functionality over the next few weeks. The work I had to do to bridge the gaps was effectively a proprietary precursor to the [Rangy][rangy] JavaScript library.
+ - **Challenging:** ?
+ - **Little Management Overhead:** ?
 
 
 ### Sharing
