@@ -44,19 +44,19 @@
        - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]:  
          A Node.js client for the Google Code Project Hosting Issue Tracker API.  
           &nbsp; &rarr; Also available on the [NPM Registry][node/gc2gh-issue-migrator/reg].
-       - [mxmlc-install][node/mxmlc-install/repo]:
+       - [mxmlc-install][node/mxmlc-install/repo]:  
          A Node.js module to download and "install" the latest Adobe Open Source Flex SDK.  
           &nbsp; &rarr; Also available on the [NPM Registry][node/mxmlc-install/reg].
  - [Grunt][grunt/site] &mdash; _"The JavaScript Task Runner"_
     - Plugin Creator
        - [grunt-chmod][grunt/chmod/repo]:  
          A Grunt task plugin to modify file permissions, i.e. like using `chmod`.  
-          &nbsp; &rarr; Also available on the [NPM Registry][node/grunt-chmod/reg].
-          &nbsp; &rarr; Also available on the [Grunt Plugin Registry][grunt/plugin-reg].  
+          &nbsp; &rarr; Also available on the [NPM Registry][node/grunt-chmod/reg].  
+          &nbsp; &rarr; Also available on the [Grunt Plugin Registry][grunt/plugin-reg].
        - [grunt-mxmlc][grunt/mxmlc/repo]:  
          A Grunt task plugin to compile Adobe Flex/ActionScript/MXML/FLV/etc. apps with Adobe's `mxmlc` compiler.  
-          &nbsp; &rarr; Also available on the [NPM Registry][node/grunt-mxmlc/reg].
-          &nbsp; &rarr; Also available on the [Grunt Plugin Registry][grunt/plugin-reg].  
+          &nbsp; &rarr; Also available on the [NPM Registry][node/grunt-mxmlc/reg].  
+          &nbsp; &rarr; Also available on the [Grunt Plugin Registry][grunt/plugin-reg].
  - [jWalker][other/jWalker/repo] &mdash; _jWalker is a well-tested cross-browser JavaScript implementation of the TreeWalker class defined in the W3C specification for DOM Traversal (DOM Level 2)._
  - [_And more...._][me/gh]
 
