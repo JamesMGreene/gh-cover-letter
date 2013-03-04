@@ -13,7 +13,7 @@
  - [ZeroClipboard][zc/site] &mdash; _ZeroClipboard is a JavaScript library that enables clipboard injection using an invisible Adobe Flash movie._
     - [Collaborator][zc/repo]: Working 1-on-1 with [**@jonrohan**][gh/jon]
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
-    - [Collaborator][qu/repo]
+    - [Collaborator][qu/repo] ([officially listed][qu/team] too)
     - Addon Creator
        - [qunit-assert-html][qu/addon-assert-html]:  
          A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
@@ -44,9 +44,9 @@
        - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]:  
          A Node.js client for the Google Code Project Hosting Issue Tracker API.  
           &nbsp; &rarr; Also available on the [NPM Registry][node/gc2gh-issue-migrator/reg].
-       - [mxmlc-install][node/mxmlc-install/repo]:  
-         A Node.js module to download and "install" the latest Adobe Open Source Flex SDK.  
-          &nbsp; &rarr; Also available on the [NPM Registry][node/mxmlc-install/reg].
+       - [flex][node/flex/repo]:  
+         A Node.js module to download and "install" the latest open sourced Apache/Adobe Flex SDK.  
+          &nbsp; &rarr; Also available on the [NPM Registry][node/flex/reg].
  - [Grunt][grunt/site] &mdash; _"The JavaScript Task Runner"_
     - Plugin Creator
        - [grunt-chmod][grunt/chmod/repo]:  
@@ -78,6 +78,7 @@
 [zc/repo]: https://github.com/jonrohan/ZeroClipboard
 [qu/site]: http://qunitjs.com/
 [qu/repo]: https://github.com/jquery/qunit
+[qu/team]: http://jquery.org/team/
 [qu/addon-assert-html]: https://github.com/JamesMGreene/qunit-assert-html
 [qu/addon-reporter-xunit]: https://github.com/JamesMGreene/qunit-reporter-xunit
 [jq/site]: http://jquery.com/
@@ -94,8 +95,8 @@
 [node/gcph-client/reg]: https://npmjs.org/package/gcph-client
 [node/gc2gh-issue-migrator/repo]: https://github.com/JamesMGreene/gc2gh-issue-migrator
 [node/gc2gh-issue-migrator/reg]: https://npmjs.org/package/gc2gh-issue-migrator
-[node/mxmlc-install/repo]: https://github.com/JamesMGreene/node-mxmlc-install
-[node/mxmlc-install/reg]: https://npmjs.org/package/mxmlc-install
+[node/flex/repo]: https://github.com/JamesMGreene/node-flex
+[node/flex/reg]: https://npmjs.org/package/flex
 [node/grunt-chmod/reg]: https://npmjs.org/package/grunt-chmod
 [node/grunt-mxmlc/reg]: https://npmjs.org/package/grunt-mxmlc
 [grunt/site]: http://gruntjs.com/
