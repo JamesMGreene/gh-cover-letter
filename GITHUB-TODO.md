@@ -51,6 +51,8 @@ mentally aligned with GitHub's future direction!
      &nbsp; &nbsp; &nbsp; ![GitHub auto-PR branch bug](img/auto-fork-PR-wrong-branch.png)  
  - When viewing a patch/diff, show a control to toggle the "ignore whitespace" option (i.e. [adding `?w=1` to the URL][gh/blog/secrets]).
    Keeping helpful features hidden is not helpful.
+ - _Bug fix:_ the "Find A User" search box only operates on open PRs, even when I am viewing [and want to search]
+   closed PRs.
 
 
 
