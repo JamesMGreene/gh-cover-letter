@@ -13,13 +13,15 @@
  - [ZeroClipboard][zc/site] &mdash; _ZeroClipboard is a JavaScript library that enables clipboard injection using an invisible Adobe Flash movie._
     - [Collaborator][zc/repo]: Working 1-on-1 with [**@jonrohan**][gh/jon]
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
-    - [Collaborator][qu/repo] ([officially listed][qu/team] too)
+    - [Collaborator][qu/repo]
+    - [Official jQuery Team Member][qu/team], "Testing" sub-team
     - Addon Creator
        - [qunit-assert-html][qu/addon-assert-html]:  
          A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
        - [qunit-reporter-xunit][qu/addon-reporter-xunit]:  
          A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.
  - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ (Perhaps you've heard of it? :wink:)
+    - [Official jQuery Team Member][qu/team], "Testing" sub-team
     - Plugin Creator
        - [jquery.outerHtml][jq/outerHtml/repo]:  
          A simple jQuery plugin to get the outer HTML of an element, a la IE's [formerly] proprietary `outerHTML`
