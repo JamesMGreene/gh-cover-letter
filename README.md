@@ -38,7 +38,7 @@ even better!
  - I am extremely proficient at [and well-versed in] learning new programming languages and frameworks.
  - I am a practitioner of unit testing, though I know from experience that it doesn't always pan out as well we hope.
  - I am a regular GitHub.com user but I accomplish most of my Git interactions from the terminal.
- - I am extraordinarily detail-oriented.
+ - I am extraordinarily detail-oriented. (My [GITHUB-TODO.md][cover-letter/github-todo] clearly demonstrates this.)
 
 
 ### Personality
