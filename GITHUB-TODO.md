@@ -30,6 +30,28 @@ mentally aligned with GitHub's future direction!
       collaborators", etc.), as well as possibly of branches (e.g. can work on the "docs" branch vs. "gh-pages" branch vs.
       "master" branch), etc. Of course, striking the right balance of simplicity vs. capability is the obvious quandary
       to tackle here.
+ - When using the GitHub.com online editor, all changes are lost if the history of the repo changes between the time
+   you start editing and the time you [try to] commit your changes. For example, while working on this repo (primarily
+   via the GitHub.com online editor), I occasionally would run into the following scenario:
+    1. I start editing "FileA" in the GitHub.com online editor.
+    2. While editing "FileA", I get an idea of a change I should make to "FileB".
+    3. Not wanting to forget that idea, I right-click on my repo name and open my repo in a second browser tab.
+    4. I navigate to "FileB", start editing, commit changes.
+    5. I close the second browser tab.
+    6. I shift my attention back to the original browser tab, in which I was editing "FileA".
+    7. Continue making changes to "FileA".
+    8. [Try to] commit changes to "FileA" by clicking the "Commit Changes" button.
+    9. _**BOOM!**_ The repo history has changed, the commit fails, and all of my uncommitted edits are lost forever.
+   
+   I would like to see this improved by pursuing 1+ of the following options:
+    - When comparing the state of the repo history, also consider if the actual file being committed had its
+      history updated. In the aforementioned scenario, it did not. In such a situation, I would expect the changes
+      to be committed just fine despite the [irrelevant] repo history changes.
+    - When the commit is prevented due to a repo history change, keep the user's uncommitted changes active and
+      force them into a diff-ing mode (similar to a PR).
+    - When the commit is prevented due to a repo history change, _at a minimum_, keep the user's uncommitted
+      changes active so that they can try to resolve them against the latest repo state.
+    - etc.
 
 
 ### Pull Requests
