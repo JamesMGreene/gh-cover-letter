@@ -127,6 +127,8 @@ function blah() { }
    GitHub staffer on and off to track down and resolve the actual issue.
  - Create an escape mechanism for 3+ backticks when used inside of a triple-backtick-fenched code block. I [had to use
    zero width space characters][jmg/gfm-escape-backtick-commit] (`&#x200B;`) to do so [for the previous bullet!].
+ - I'm not sure if this is a bug, an oversight, or an intentional decision but: currently, user mentions (e.g.
+   `@JamesMGreene`) within a repo's Markdown files are _not_ auto-linked, nor do they notify the mentioned user.
 
 
 ### GitHub app for Android
