@@ -135,6 +135,15 @@ function blah() { }
  - Users can create new Gists, which is awesome. However, I would also like to be able to edit existing Gists.
 
 
+### Mobile
+ - I would like to see the GitHub.com online editor experience improved for mobile browsers (e.g. Google
+   Chrome for Android, Firefox for Android, etc.). The current experience is extremely challenging:
+    - Screen jumps around
+    - Font size changes
+    - Cursor blurs
+    - etc.
+
+
 ### Increasing Popularity
  - We can help more projects migrate to GitHub by providing more streamlined import processes.
    For example, I migrated the Issue Tracker for the [PhantomJS][pjs/repo] project
