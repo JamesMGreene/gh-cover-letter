@@ -46,9 +46,9 @@
        - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]:  
          A Node.js client for the Google Code Project Hosting Issue Tracker API.  
           &nbsp; &rarr; Also available on the [NPM Registry][node/gc2gh-issue-migrator/reg].
-       - [flex][node/flex/repo]:  
+       - [flex-sdk][node/flex-sdk/repo]:  
          A Node.js module to download and "install" the latest open sourced Apache/Adobe Flex SDK.  
-          &nbsp; &rarr; Also available on the [NPM Registry][node/flex/reg].
+          &nbsp; &rarr; Also available on the [NPM Registry][node/flex-sdk/reg].
  - [Grunt][grunt/site] &mdash; _"The JavaScript Task Runner"_
     - Plugin Creator
        - [grunt-chmod][grunt/chmod/repo]:  
@@ -97,8 +97,8 @@
 [node/gcph-client/reg]: https://npmjs.org/package/gcph-client
 [node/gc2gh-issue-migrator/repo]: https://github.com/JamesMGreene/gc2gh-issue-migrator
 [node/gc2gh-issue-migrator/reg]: https://npmjs.org/package/gc2gh-issue-migrator
-[node/flex/repo]: https://github.com/JamesMGreene/node-flex
-[node/flex/reg]: https://npmjs.org/package/flex
+[node/flex-sdk/repo]: https://github.com/JamesMGreene/node-flex-sdk
+[node/flex-sdk/reg]: https://npmjs.org/package/flex-sdk
 [node/grunt-chmod/reg]: https://npmjs.org/package/grunt-chmod
 [node/grunt-mxmlc/reg]: https://npmjs.org/package/grunt-mxmlc
 [grunt/site]: http://gruntjs.com/
