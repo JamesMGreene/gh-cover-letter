@@ -19,7 +19,8 @@
        - [qunit-assert-html][qu/addon-assert-html]:  
          A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
        - [qunit-reporter-xunit][qu/addon-reporter-xunit]:  
-         A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.
+         A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.  
+          &nbsp; &rarr; A work in progress.
  - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ (Perhaps you've heard of it? :wink:)
     - [Official jQuery Team Member][qu/team], "Testing" sub-team
     - Plugin Creator
@@ -60,9 +61,13 @@
           &nbsp; &rarr; Also available on the [Grunt Plugin Registry][grunt/plugin-reg].
        - [grunt-mxmlc][grunt/mxmlc/repo]:  
          A Grunt task plugin to compile Adobe Flex/ActionScript/MXML/FLV/etc. apps with Adobe's `mxmlc` compiler.  
+          &nbsp; &rarr; A work in progress... resolving some unexpected cross-platform compatibility issues presently.
+
+<!---
           &nbsp; &rarr; Also available on the [NPM Registry][node/grunt-mxmlc/reg].  
           &nbsp; &rarr; Also available on the [Grunt Plugin Registry][grunt/plugin-reg].
- - [jWalker][other/jWalker/repo] &mdash; _jWalker is a well-tested cross-browser JavaScript implementation of the TreeWalker class defined in the W3C specification for DOM Traversal (DOM Level 2)._
+-->
+- [jWalker][other/jWalker/repo] &mdash; _jWalker is a well-tested cross-browser JavaScript implementation of the TreeWalker class defined in the W3C specification for DOM Traversal (DOM Level 2)._
  - [_And more...._][me/gh]
 
 
