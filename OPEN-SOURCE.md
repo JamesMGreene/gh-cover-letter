@@ -49,6 +49,9 @@
        - [flex-sdk][node/flex-sdk/repo]:  
          A Node.js module to download and "install" the latest open sourced Apache/Adobe Flex SDK.  
           &nbsp; &rarr; Also available on the [NPM Registry][node/flex-sdk/reg].
+       - [dos2unix][node/dos2unix/repo]:  
+         A Node.js module to convert text files with DOS line breaks to UNIX line breaks, i.e. like using `dos2unix`.  
+          &nbsp; &rarr; Also available on the [NPM Registry][node/dos2unix/reg].
  - [Grunt][grunt/site] &mdash; _"The JavaScript Task Runner"_
     - Plugin Creator
        - [grunt-chmod][grunt/chmod/repo]:  
@@ -99,6 +102,8 @@
 [node/gc2gh-issue-migrator/reg]: https://npmjs.org/package/gc2gh-issue-migrator
 [node/flex-sdk/repo]: https://github.com/JamesMGreene/node-flex-sdk
 [node/flex-sdk/reg]: https://npmjs.org/package/flex-sdk
+[node/dos2unix/repo]: https://github.com/JamesMGreene/node-dos2unix
+[node/dos2unix/reg]: https://npmjs.org/package/dos2unix
 [node/grunt-chmod/reg]: https://npmjs.org/package/grunt-chmod
 [node/grunt-mxmlc/reg]: https://npmjs.org/package/grunt-mxmlc
 [grunt/site]: http://gruntjs.com/
