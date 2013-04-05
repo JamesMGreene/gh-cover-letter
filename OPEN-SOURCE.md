@@ -63,7 +63,7 @@
          A Grunt task plugin to compile Adobe Flex/ActionScript/MXML/FLV/etc. apps with Adobe's `mxmlc` compiler.  
           &nbsp; &rarr; A work in progress... resolving some unexpected cross-platform compatibility issues presently.
 
-<!---
+<!--
           &nbsp; &rarr; Also available on the [NPM Registry][node/grunt-mxmlc/reg].  
           &nbsp; &rarr; Also available on the [Grunt Plugin Registry][grunt/plugin-reg].
 -->
