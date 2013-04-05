@@ -40,13 +40,13 @@
           &nbsp; &rarr; Also available on the [jQuery Plugin Registry][jq/multiclick/reg].
  - [Node.js][node/site] &mdash; _Node.js is server-side JavaScript execution environment with an event-driven, non-blocking I/O model._
     - Module Creator
-       - [gcph-client][node/gcph-client/repo]:  
+       - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]:  
          Migration tool(s) for fetching issues from the Google Code Issue Tracker API and translating that data into
          a GitHub Issue Tracker offline-importable format.  
-          &nbsp; &rarr; Also available on the [NPM Registry][node/gcph-client/reg].
-       - [gc2gh-issue-migrator][node/gc2gh-issue-migrator/repo]:  
-         A Node.js client for the Google Code Project Hosting Issue Tracker API.  
           &nbsp; &rarr; Also available on the [NPM Registry][node/gc2gh-issue-migrator/reg].
+       - [gcph-client][node/gcph-client/repo]:  
+         A Node.js client for the Google Code Project Hosting Issue Tracker API.  
+          &nbsp; &rarr; Also available on the [NPM Registry][node/gcph-client/reg].
        - [flex-sdk][node/flex-sdk/repo]:  
          A Node.js module to download and "install" the latest open sourced Apache/Adobe Flex SDK.  
           &nbsp; &rarr; Also available on the [NPM Registry][node/flex-sdk/reg].
