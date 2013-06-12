@@ -14,7 +14,7 @@
     - [Collaborator][zc/repo]: Working 1-on-1 with [**@jonrohan**][gh/jon]
  - [QUnit][qu/site] &mdash; _QUnit is a powerful, easy-to-use JavaScript unit testing framework._
     - [Collaborator][qu/repo]
-    - [Official jQuery Team Member][qu/team], "Testing" sub-team
+    - [Official jQuery Team Member][qu/team], QUnit sub-team
     - Addon Creator
        - [qunit-assert-html][qu/addon-assert-html]:  
          A QUnit addon for assertion methods to compare two HTML strings for equality after a normalization process.
@@ -22,7 +22,7 @@
          A QUnit addon for reporting test results in the XUnit format. Great for integration with Jenkins CI servers.  
           &nbsp; &rarr; A work in progress.
  - [jQuery][jq/site] &mdash; _jQuery is a fast, small, and feature-rich JavaScript library._ (Perhaps you've heard of it? :wink:)
-    - [Official jQuery Team Member][qu/team], "Testing" sub-team
+    - [Official jQuery Team Member][qu/team], QUnit sub-team
     - Plugin Creator
        - [jquery.outerHtml][jq/outerHtml/repo]:  
          A simple jQuery plugin to get the outer HTML of an element, a la IE's [formerly] proprietary `outerHTML`
